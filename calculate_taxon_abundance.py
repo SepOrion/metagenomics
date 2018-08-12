@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Usage:calculate_megan_abundance.py <input_file> 
-# 用于计算注释分类丰度
+# 用于计算注释分类丰度：对基因Id进行丰度替换之后，由于每行的长度是不一致的，使用pd.read_table导入时会报错，因此需要预先确定最大列，并重新命名列名
 # input_file:form megan's replace output file
 # eg:sampleName_replace.txt
 
