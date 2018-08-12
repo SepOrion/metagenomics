@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Usage:filter_unigenes_seq.py <fasta_file> <id_file>
+# Usage:find_seq_by_id.py <fasta_file> <id_file>
 # 用途：根据序列ID号，输出对应的序列
 
 import sys
@@ -8,7 +8,7 @@ from Bio import SeqIO
 
 fasta_file = sys.argv[1]
 id_file = sys.argv[2]
-output_file = "filterSeq_"+fasta_file
+output_file = fasta_file.split('.')[0]+"_find.fasta"
 
 # read id_file name
 with open(id_file) as id_handle:
