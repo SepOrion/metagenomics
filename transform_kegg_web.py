@@ -1,21 +1,16 @@
 #!/usr/bin/env python3
 
-# Usage: transform_kegg_web.py <input web.txt> <output>
-# 用于将来自kegg官网的注释结果网页文件转为level3水平pathway对应多个基因ID文件
-
-import sys
-import re
-
-args = sys.argv
-
-input_file = args[1]
-output_file = args[2]
+import argparse
+parser = argparse.ArgumentParser(description="用途：将来自kegg官网注释的网页格式文件，转换为pathway(level3)通路表")
+parser.add_argument("-i",dest="inputFile",metavar="",help="输入文件：来自kegg网页文件:kegg.web")
+parser.add_argument("-o",dest="outFile",metavar="",help="输出文件名")
+args = parser.parse_args()
 
 kg = {}
 L = []
 
 # 匹配level3和对应的基因ID并存入列表中
-with open(input_file) as f1:
+with open(args.inputFile) as f1:
 	for line in f1:
 		line = line.lstrip() # 删除开头空格
 		if re.search('^[0-9]{5}',line): # 获取level3水平pathway名称
@@ -33,7 +28,7 @@ for value in L:
 		kg[name] +=new_v
 
 # 输出结果：一条通路对应多个genes
-with open(output_file,'w')  as f2:
+with open(args.outFile,'w')  as f2:
 	for k in kg.keys():
 		f2.write(k)
 		f2.write('\t')
