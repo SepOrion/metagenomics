@@ -1,13 +1,10 @@
 #!/usr/bin/env python3
 
-# Usage:taxonomy_to_geneId.py <input_file> <output_file>
-# 转换格式：一个注释分类对应多个基因ID
-
 import argparse
 
-parser = argparse.ArgumentParser()
+parser = argparse.ArgumentParser(description="用途：将一个基因对应多条分类信息的格式文件，转换为一条分类信息对应多个基因格式")
 parser.add_argument("-i",dest="inputFile",metavar="",help="输入文件：过滤最低identity后文件")
-parser.add_argument("-0",dest="outFile",metavar="",help="输出文件名")
+parser.add_argument("-o",dest="outFile",metavar="",help="输出文件名")
 args = parser.parse_args()
 
 my_dict = {}
