@@ -30,6 +30,7 @@ with open(args.tax) as an:
 
 outputName = ab['Gene_ID']+"_abundance.txt"
 with open(outputName,"wt") as outFile:
+	outFile.write("TaxPath"+"\t"+ab['Gene_ID']+"\n")
 	for k in myDict.keys():
 		outFile.write(k+"\t")
 		outFile.write(str(myDict[k]))
