@@ -3,9 +3,9 @@
 
 import argparse
 
-parser = argparse.ArgumentParser()
+parser = argparse.ArgumentParser(description=“用途：用于计算相关注释分类丰度：如kegg、物种分类、抗性等”)
 parser.add_argument("-g",dest="geneAbundance",metavar="",help="样品基因丰度表：第一列为基因ID，第二列为丰度值")
-parser.add_argument("-a",dest="annot",metavar="",help="注释文件：第一列为注释ID，其余各列为对应的基因ID")
+parser.add_argument("-t",dest="tax",metavar="",help="注释文件：第一列为注释ID，其余各列为对应的基因ID")
 #parser.add_argument("-o",dest="output",metavar="",help="输出文件名")
 args = parser.parse_args()
 
@@ -15,7 +15,7 @@ with open(args.geneAbundance) as F:
 		k = a.strip("\n").split("\t")
 		ab[k[0]] = k[1]
 
-with open(args.annot) as an:
+with open(args.tax) as an:
 	myDict = {}
 	for line in an.readlines():
 		num = 0
