@@ -3,7 +3,7 @@
 
 import argparse
 
-parser = argparse.ArgumentParser(description=“用途：用于计算相关注释分类丰度：如kegg、物种分类、抗性等”)
+parser = argparse.ArgumentParser(description="用途：用于计算相关注释分类丰度：如kegg、物种分类、抗性等")
 parser.add_argument("-g",dest="geneAbundance",metavar="",help="样品基因丰度表：第一列为基因ID，第二列为丰度值")
 parser.add_argument("-t",dest="tax",metavar="",help="注释文件：第一列为注释ID，其余各列为对应的基因ID")
 #parser.add_argument("-o",dest="output",metavar="",help="输出文件名")
