@@ -18,7 +18,7 @@ with open(input_file) as f:
     colcount = max([len(l.strip().split("\t")) for l in lines])
 
 # Add column headers and sum
-df = pd.read_table(input_file,index_col=[0],names=range(colcount))
+df = pd.read_table(input_file,index_col=[0],names=range(colcount),engine ='python')
 data = df.sum(axis=1)
 
 # Add index name and columns name
@@ -29,10 +29,3 @@ df_data = DataFrame(data,columns=[colName])
 output_file1 = colName+"_abundance.txt"
 df_data.to_csv(output_file1,sep="\t")
 
-'''
-# Output: relative abundance %
-f = lambda x : x/df_data[colName].sum()*100
-percentage = df_data.apply(f).round(2)
-output_file2 =colName+"_relative_abundance.txt"
-percentage.to_csv(output_file2,sep="\t")
-'''
