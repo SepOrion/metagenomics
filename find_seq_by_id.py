@@ -3,20 +3,21 @@
 # Usage:find_seq_by_id.py <fasta_file> <id_file>
 # 用途：根据序列ID号，输出对应的序列
 
-import sys
+import argparse
 from Bio import SeqIO
-
-fasta_file = sys.argv[1]
-id_file = sys.argv[2]
-output_file = fasta_file.split('.')[0]+"_find.fasta"
+parser = argparse.ArgumentParser(description="用途：根据序列ID号，输出对应的序列。 示例：find_seq_by_id.py -i genes.fa -id id.txt -o genes_clean.fa"")
+parser.add_argument("-i",dest="fasta",metavar="",help="fasta序列文件，例如去冗余后的基因集")
+parser.add_argument("-id",dest="Id",metavar="",help="需要查询的序列ID，格式：一行一个ID号")
+parser.add_argument("-o",dest="outFile",metavar="",help="输出文件名")
+args = parser.parse_args()
 
 # read id_file name
-with open(id_file) as id_handle:
+with open(args.Id) as id_handle:
 	id_name = set(line.rstrip("\n") for line in id_handle)
 
 #read fasta_file and output
-with open(fasta_file) as in_handle:
-	with open(output_file,"w") as out_handle:
+with open(args.fasta) as in_handle:
+	with open(args.outFile,"w") as out_handle:
 		for seq_record in SeqIO.parse(in_handle,"fasta"):
 			if seq_record.id in id_name:
 				out_handle.write(">%s\n%s\n" % (seq_record.id,seq_record.seq))
