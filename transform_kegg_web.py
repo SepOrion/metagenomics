@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import re
 import argparse
 parser = argparse.ArgumentParser(description="用途：将来自kegg官网注释的网页格式文件，转换为pathway(level3)通路表")
 parser.add_argument("-i",dest="inputFile",metavar="",help="输入文件：来自kegg网页文件:kegg.web")
@@ -34,8 +35,9 @@ with open(args.outFile,'w')  as f2:
 		f2.write('\t')
 		f2.write(kg[k].rstrip("\t")) # 去掉最后一个\t
 		f2.write('\n')
-
+"""
 # 输出通路名称
 with open("Pathway_name.L3","w") as f3:
 	for k in kg.keys():
 		f3.write(k+"\n")
+"""
