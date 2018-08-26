@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 
-import sys
-args = sys.argv
-filename = args[1]
+import argparse
+parser = argparse.ArgumentParser(description="用途：计算contigs序列N50、N90、GC含量等，输出结果从左到右为：样品名、碱基总数、contigs总数、平均长度、N50、N90、最长contigs、最短contigs、GC含量")
+parser.add_argument("-i",dest="contigs",metavar="",help="输入文件：组装生成的contigs文件")
+args = parser.parse_args()
 
 L = []
 gc = 0
 N50_num = 0
 N90_num = 0
 
-with open(filename) as fa:
+with open(args.contigs) as fa:
 	for line in fa:
 		if line.startswith(">"):
 			seqLine = next(fa).strip("\n")
@@ -36,7 +37,7 @@ for value in len_sorted:
 	if N90_num/Total_len>0.9:
 		N90 = value
 		break
-print(filename,end="\t")
+print(args.contigs,end="\t")
 print(Total_len,end="\t") # 碱基总数
 print(contigNum,end="\t")   # contigs总数
 print(Avg_len,end="\t") #平均长度
