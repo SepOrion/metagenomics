@@ -1,14 +1,11 @@
 #!/usr/bin/env python3
 
-# Usage:filter_reads_in_genes.py <genes_reads_file> <output_name>
-# 去除在各样品中支持reads数小于等于2的基因，并统计每个样品中丰度大于0的基因数
-
 import argparse
 import pandas as pd
 import numpy as np
 
 parser = argparse.ArgumentParser(description="用途：去除在各样品中支持reads数小于等于2的基因，并统计每个样品中丰度大于0的基因数")
-parser.add_argument("-i",dest="inputFile",help="所有样品reads数矩阵表，第一列基因编号，第二列为长度，其余各列为样品名")
+parser.add_argument("-i",dest="inputFile",metavar="",help="所有样品reads数矩阵表，第一列基因编号，第二列为长度，其余各列为样品名")
 parser.add_argument("-o",dest="outFile",metavar="",help="输出文件名")
 args = parser.parse_args()
 
