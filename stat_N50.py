@@ -45,4 +45,4 @@ print(N50,end="\t") # N50
 print(N90,end="\t") # N90
 print(Max_len,end="\t") #最长contigs
 print(Min_len,end="\t") #最短contigs
-print(GC,end="\t")  #GC含量
+print(GC)  #GC含量
