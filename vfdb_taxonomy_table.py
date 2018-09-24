@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
-
-import re
+# 可以用于处理VFDB和COG/KOG比对结果，分别需要用到相应的功能描述信息表：VFID_keyword.txt、cogKog_Function.txt
 import argparse
 import pandas as pd
 import numpy as np
 from pandas import DataFrame
 
 def get_args():
-	parser = argparse.ArgumentParser(description="用于计算VFDB数据库比对结果")
-	parser.add_argument("-i",dest="m8File",metavar="",help="VFDB比对结果，M8格式")
-	parser.add_argument("-k",dest="keyWord",metavar="",help="VFDB的注释信息keyword表：VFID_keyword.txt")
+	parser = argparse.ArgumentParser(description="用于处理VFDB和COG/KOG比对结果")
+	parser.add_argument("-i",dest="m8File",metavar="",help="VFDB或COG/KOG比对结果，M8格式")
+	parser.add_argument("-k",dest="function",metavar="",help="功能注释信息表：VFID_keyword.txt、cogKog_Function.txt")
 	parser.add_argument("-o",dest="outPutFile",metavar="",help="输出文件名")
 	parser.add_argument("--min-score",dest="minScore",metavar="",default=60,help="比对结果的最小得分,默认60")
 	return parser.parse_args()
@@ -22,12 +21,12 @@ score_df = drop_df[drop_df[11]>=args.minScore]
 score_dff  = DataFrame(score_df,columns=[0,1])
 
 #数据映射
-with open(args.keyWord) as f:
-	vfdb = {}
+with open(args.function) as f:
+	fun = {}
 	for line in f:
 		k = line.strip("\n").split("\t")
-		vfdb[k[0]] = k[2]
-score_dff[2] = score_dff[1].map(vfdb)
+		fun[k[0]] = k[2]
+score_dff[2] = score_dff[1].map(fun)
 dff = score_dff.dropna()
 dfs = DataFrame(dff,columns=[0,2])
 
