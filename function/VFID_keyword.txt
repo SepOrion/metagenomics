@@ -1,0 +1,2192 @@
+VFG037176(gb|YP_001844723)	VF0470	Enzyme
+VFG037177(gb|YP_001846906)	VF0470	Enzyme
+VFG037203(gb|YP_001847849)	VF0469	Enzyme
+VFG037218(gb|YP_001847229)	VF0467	Iron uptake; Siderophore
+VFG037232(gb|YP_001847230)	VF0467	Iron uptake; Siderophore
+VFG037246(gb|YP_001847231)	VF0467	Iron uptake; Siderophore
+VFG037260(gb|YP_001847232)	VF0467	Iron uptake; Siderophore
+VFG037274(gb|YP_001847233)	VF0467	Iron uptake; Siderophore
+VFG037288(gb|YP_001847235)	VF0467	Iron uptake; Siderophore
+VFG037302(gb|YP_001847236)	VF0467	Iron uptake; Siderophore
+VFG037316(gb|YP_001847237)	VF0467	Iron uptake; Siderophore
+VFG037330(gb|YP_001847238)	VF0467	Iron uptake; Siderophore
+VFG037344(gb|YP_001847239)	VF0467	Iron uptake; Siderophore
+VFG037358(gb|YP_001847240)	VF0467	Iron uptake; Siderophore
+VFG037372(gb|YP_001847241)	VF0467	Iron uptake; Siderophore
+VFG037386(gb|YP_001847242)	VF0467	Iron uptake; Siderophore
+VFG037400(gb|YP_001847243)	VF0467	Iron uptake; Siderophore
+VFG037414(gb|YP_001847244)	VF0467	Iron uptake; Siderophore
+VFG037428(gb|YP_001847246)	VF0467	Iron uptake; Siderophore
+VFG037442(gb|YP_001847247)	VF0467	Iron uptake; Siderophore
+VFG037456(gb|YP_001847248)	VF0467	Iron uptake; Siderophore
+VFG037560(gb|YP_001847079)	VF0461	Biofilm formation
+VFG037573(gb|YP_001847077)	VF0461	Biofilm formation
+VFG037586(gb|YP_001847076)	VF0461	Biofilm formation
+VFG037599(gb|YP_001847075)	VF0461	Biofilm formation
+VFG037612(gb|YP_001847074)	VF0461	Biofilm formation
+VFG037625(gb|YP_001847073)	VF0461	Biofilm formation
+VFG037638(gb|YP_001847597)	VF0462	Biofilm formation; Adherence
+VFG037650(gb|YP_001847024)	VF0472	Biofilm formation
+VFG037664(gb|YP_001847022)	VF0472	Biofilm formation
+VFG037678(gb|YP_001847021)	VF0472	Biofilm formation
+VFG037692(gb|YP_001847020)	VF0472	Biofilm formation
+VFG037705(gb|YP_001847163)	VF0504	Biofilm formation
+VFG037720(gb|YP_001847164)	VF0504	Biofilm formation
+VFG037735(gb|YP_001847165)	VF0504	Biofilm formation
+VFG038176(gb|YP_001847748)	VF0464	Adherence; Apopotosis; Serum resistance
+VFG038191(gb|YP_001844795)	VF0471	Regulation; Biofilm formation
+VFG038205(gb|YP_001844797)	VF0471	Regulation; Biofilm formation
+VFG038219(gb|YP_001845364)	VF0463	Regulation; Two-component system
+VFG038234(gb|YP_001845365)	VF0463	Regulation; Two-component system
+VFG038320(gb|YP_001144270)	VF0479	Secretion system; Type III secretion system
+VFG038321(gb|YP_001144271)	VF0479	Secretion system; Type III secretion system
+VFG038322(gb|YP_001144272)	VF0479	Secretion system; Type III secretion system
+VFG038323(gb|YP_001144273)	VF0479	Secretion system; Type III secretion system
+VFG038324(gb|YP_001144274)	VF0479	Secretion system; Type III secretion system
+VFG038325(gb|YP_001144275)	VF0479	Secretion system; Type III secretion system
+VFG038326(gb|YP_001144276)	VF0479	Secretion system; Type III secretion system
+VFG038327(gb|YP_001144277)	VF0479	Secretion system; Type III secretion system
+VFG038328(gb|YP_001144278)	VF0479	Secretion system; Type III secretion system
+VFG038329(gb|YP_001144279)	VF0479	Secretion system; Type III secretion system
+VFG038330(gb|YP_001144280)	VF0479	Secretion system; Type III secretion system
+VFG038331(gb|YP_001144281)	VF0479	Secretion system; Type III secretion system
+VFG038332(gb|YP_001144282)	VF0479	Secretion system; Type III secretion system
+VFG038333(gb|YP_001144283)	VF0479	Secretion system; Type III secretion system
+VFG038334(gb|YP_001144284)	VF0479	Secretion system; Type III secretion system
+VFG038335(gb|YP_001144285)	VF0479	Secretion system; Type III secretion system
+VFG038336(gb|YP_001144286)	VF0479	Secretion system; Type III secretion system
+VFG038337(gb|YP_001144287)	VF0479	Secretion system; Type III secretion system
+VFG038338(gb|YP_001144288)	VF0479	Secretion system; Type III secretion system
+VFG038339(gb|YP_001144289)	VF0479	Secretion system; Type III secretion system
+VFG038340(gb|YP_001144290)	VF0479	Secretion system; Type III secretion system
+VFG038341(gb|YP_001144291)	VF0479	Secretion system; Type III secretion system
+VFG038342(gb|YP_001144292)	VF0479	Secretion system; Type III secretion system
+VFG038343(gb|YP_001144293)	VF0479	Secretion system; Type III secretion system
+VFG038344(gb|YP_001144294)	VF0479	Secretion system; Type III secretion system
+VFG038345(gb|YP_001144295)	VF0479	Secretion system; Type III secretion system
+VFG038346(gb|YP_001144296)	VF0479	Secretion system; Type III secretion system
+VFG038347(gb|YP_001144297)	VF0479	Secretion system; Type III secretion system
+VFG038348(gb|YP_001144298)	VF0479	Secretion system; Type III secretion system
+VFG038349(gb|YP_001144299)	VF0479	Secretion system; Type III secretion system
+VFG038350(gb|YP_001144300)	VF0479	Secretion system; Type III secretion system
+VFG038351(gb|YP_001144301)	VF0479	Secretion system; Type III secretion system
+VFG038352(gb|YP_001144302)	VF0479	Secretion system; Type III secretion system
+VFG038353(gb|YP_001144303)	VF0479	Secretion system; Type III secretion system
+VFG038354(gb|YP_001144304)	VF0479	Secretion system; Type III secretion system
+VFG038355(gb|YP_001144305)	VF0479	Secretion system; Type III secretion system
+VFG038358(gb|YP_001144232)	VF0479	Secretion system; Type III secretion system
+VFG038359(gb|YP_001144233)	VF0479	Secretion system; Type III secretion system
+VFG038360(gb|YP_001144267)	VF0479	Secretion system; Type III secretion system
+VFG038361(gb|YP_001144268)	VF0479	Secretion system; Type III secretion system
+VFG038362(gb|YP_001144317)	VF0479	Secretion system; Type III secretion system
+VFG038363(gb|YP_001144318)	VF0479	Secretion system; Type III secretion system
+VFG038364(gb|YP_001143938)	VF0479	Secretion system; Type III secretion system
+VFG038581(gb|YP_008041522)	VF0477	Adherence; Type IV pili
+VFG038603(gb|YP_008041515)	VF0477	Adherence; Type IV pili
+VFG038855(gb|YP_001140276)	VF0474	Motility; Colonization
+VFG038856(gb|YP_001140277)	VF0474	Motility; Colonization
+VFG038857(gb|YP_001140278)	VF0474	Motility; Colonization
+VFG038858(gb|YP_001140279)	VF0474	Motility; Colonization
+VFG038859(gb|YP_001140280)	VF0474	Motility; Colonization
+VFG038860(gb|YP_001140281)	VF0474	Motility; Colonization
+VFG038861(gb|YP_001140282)	VF0474	Motility; Colonization
+VFG038862(gb|YP_001140283)	VF0474	Motility; Colonization
+VFG038863(gb|YP_001140284)	VF0474	Motility; Colonization
+VFG038864(gb|YP_001140285)	VF0474	Motility; Colonization
+VFG038865(gb|YP_001140286)	VF0474	Motility; Colonization
+VFG038866(gb|YP_001140287)	VF0474	Motility; Colonization
+VFG038867(gb|YP_001140288)	VF0474	Motility; Colonization
+VFG038868(gb|YP_001140289)	VF0474	Motility; Colonization
+VFG038869(gb|YP_001140290)	VF0474	Motility; Colonization
+VFG038870(gb|YP_001140291)	VF0474	Motility; Colonization
+VFG038871(gb|YP_001140292)	VF0474	Motility; Colonization
+VFG038872(gb|YP_001140293)	VF0474	Motility; Colonization
+VFG038873(gb|YP_001140294)	VF0474	Motility; Colonization
+VFG038874(gb|YP_001140295)	VF0474	Motility; Colonization
+VFG038875(gb|YP_001140296)	VF0474	Motility; Colonization
+VFG038876(gb|YP_001140297)	VF0474	Motility; Colonization
+VFG038877(gb|YP_001140298)	VF0474	Motility; Colonization
+VFG038878(gb|YP_001140299)	VF0474	Motility; Colonization
+VFG038879(gb|YP_001140300)	VF0474	Motility; Colonization
+VFG038880(gb|YP_001140301)	VF0474	Motility; Colonization
+VFG038881(gb|YP_001140302)	VF0474	Motility; Colonization
+VFG038882(gb|YP_001140303)	VF0474	Motility; Colonization
+VFG038883(gb|YP_001140307)	VF0474	Motility; Colonization
+VFG038884(gb|YP_001140308)	VF0474	Motility; Colonization
+VFG038885(gb|YP_001140309)	VF0474	Motility; Colonization
+VFG038886(gb|YP_001140310)	VF0474	Motility; Colonization
+VFG038887(gb|YP_001140311)	VF0474	Motility; Colonization
+VFG038888(gb|YP_001140312)	VF0474	Motility; Colonization
+VFG038889(gb|YP_001140313)	VF0474	Motility; Colonization
+VFG038890(gb|YP_001140314)	VF0474	Motility; Colonization
+VFG038929(gb|YP_504978)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG038936(gb|YP_504979)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG038943(gb|YP_504980)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG038950(gb|YP_504981)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG038957(gb|YP_504982)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG038964(gb|YP_504983)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG038968(gb|YP_505022)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG038972(gb|YP_505033)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG038979(gb|YP_505671)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG038986(gb|YP_505672)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG038993(gb|YP_505673)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG038997(gb|YP_505674)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG039001(gb|YP_505675)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG039005(gb|YP_505676)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG039009(gb|YP_505678)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG039014(gb|YP_505686)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG039018(gb|YP_505687)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG039025(gb|YP_505894)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG039032(gb|YP_505895)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG039039(gb|YP_505896)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG039046(gb|YP_505897)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG039053(gb|YP_505898)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG039059(gb|AEB26875)	VF0487	Secretion system; Type IV secretion system; Type IVa
+VFG039077(gb|YP_504946)	VF0499	Adherence; Invasion
+VFG039084(gb|YP_504865)	VF0500	Adherence; Invasion
+VFG039088(gb|YP_505488)	VF0501	Adherence; Invasion
+VFG000676(gb|AAD32411)	VF0142	Toxin; A-B type; EF: adenylate cyclase; LF: protease
+VFG000677(gb|AAD32414)	VF0142	Toxin; A-B type; EF: adenylate cyclase; LF: protease
+VFG000678(gb|AAD32426)	VF0142	Toxin; A-B type; EF: adenylate cyclase; LF: protease
+VFG000679(gb|AAF13660)	VF0141	Antiphagocytosis
+VFG000680(gb|AAF13661)	VF0141	Antiphagocytosis
+VFG000681(gb|AAF13662)	VF0141	Antiphagocytosis
+VFG000682(gb|AAF13663)	VF0141	Antiphagocytosis
+VFG016216(gb|YP_029366)	VF0534	Toxin; Pore-forming toxin; <beta>-PFT
+VFG016223(gb|NP_977531)	VF0535	Toxin; Pore-forming toxin; <beta>-PFT
+VFG016254(gb|NP_832844)	VF0532	Toxin; Pore-forming toxin; ClyA family PFT
+VFG016260(gb|NP_832846)	VF0532	Toxin; Pore-forming toxin; ClyA family PFT
+VFG016263(gb|NP_832847)	VF0532	Toxin; Pore-forming toxin; ClyA family PFT
+VFG016270(gb|NP_978284)	VF0533	Toxin; Pore-forming toxin; ClyA family PFT
+VFG016278(gb|NP_978285)	VF0533	Toxin; Pore-forming toxin; ClyA family PFT
+VFG016286(gb|NP_978286)	VF0533	Toxin; Pore-forming toxin; ClyA family PFT
+VFG016306(gb|YP_016572)	VF0141	Antiphagocytosis
+VFG016338(gb|YP_026915)	VF0536	Enzyme; Metalloprotease
+VFG045350(gb|NP_390986)	VF0411	Adherence; Biofilm formation
+VFG002231(gb|YP_034051)	VF0369	Secretion system; Type IV secretion system
+VFG002232(gb|YP_034052)	VF0369	Secretion system; Type IV secretion system
+VFG002233(gb|YP_034053)	VF0369	Secretion system; Type IV secretion system
+VFG002234(gb|YP_034054)	VF0369	Secretion system; Type IV secretion system
+VFG002235(gb|YP_034055)	VF0369	Secretion system; Type IV secretion system
+VFG002236(gb|YP_034056)	VF0369	Secretion system; Type IV secretion system
+VFG002237(gb|YP_034057)	VF0369	Secretion system; Type IV secretion system
+VFG002238(gb|YP_034058)	VF0369	Secretion system; Type IV secretion system
+VFG002239(gb|YP_034059)	VF0369	Secretion system; Type IV secretion system
+VFG002240(gb|YP_034060)	VF0369	Secretion system; Type IV secretion system
+VFG002241(gb|YP_034062)	VF0369	Secretion system; Type IV secretion system
+VFG002242(gb|YP_034063)	VF0369	Secretion system; Type IV secretion system
+VFG002243(gb|YP_034064)	VF0369	Secretion system; Type IV secretion system
+VFG002244(gb|YP_034065)	VF0369	Secretion system; Type IV secretion system
+VFG002245(gb|YP_034066)	VF0369	Secretion system; Type IV secretion system
+VFG002246(gb|YP_034067)	VF0369	Secretion system; Type IV secretion system
+VFG002247(gb|YP_034068)	VF0369	Secretion system; Type IV secretion system
+VFG002248(gb|YP_034069)	VF0369	Secretion system; Type IV secretion system
+VFG002249(gb|YP_034251)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002250(gb|YP_034253)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002251(gb|YP_034254)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002252(gb|YP_034255)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002253(gb|YP_034256)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002254(gb|YP_034257)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002255(gb|YP_034258)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002256(gb|YP_034259)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002257(gb|YP_034260)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002258(gb|YP_034261)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002259(gb|YP_034262)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002260(gb|YP_034263)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002261(gb|YP_034264)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002262(gb|YP_034265)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002263(gb|YP_034266)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002264(gb|YP_034267)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002265(gb|YP_034268)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002266(gb|YP_034269)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002267(gb|YP_034270)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002268(gb|YP_034271)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002269(gb|YP_034272)	VF0372	Secretion system; Type IV secretion system; Adherence
+VFG002270(gb|YP_033006)	VF0371	Adherence; Autotransporter
+VFG002271(gb|YP_031852)	VF0371	Adherence; Autotransporter
+VFG002272(gb|YP_031853)	VF0371	Adherence; Autotransporter
+VFG002273(gb|YP_031854)	VF0371	Adherence; Autotransporter
+VFG000001(gb|NP_880571)	VF0025	Adherence; Two-partner secretion pathway (TPS)
+VFG000002(gb|NP_879839)	VF0027	Adherence; Autotransporter
+VFG000003(gb|NP_879898)	VF0031	Adherence; Phase variation
+VFG000004(gb|NP_880302)	VF0031	Adherence; Phase variation
+VFG000005(gb|NP_881287)	VF0031	Adherence; Phase variation
+VFG000007(gb|NP_880572)	VF0031	Adherence; Phase variation
+VFG000008(gb|NP_880573)	VF0031	Adherence; Phase variation
+VFG000009(gb|NP_880574)	VF0031	Adherence; Phase variation
+VFG000010(gb|NP_879974)	VF0032	Adherence; Autotransporter
+VFG000011(gb|NP_882282)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000012(gb|NP_882283)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000013(gb|NP_882284)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000014(gb|NP_882285)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000015(gb|NP_882286)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000016(gb|NP_882287)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000017(gb|NP_882288)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000018(gb|NP_882289)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000019(gb|NP_882290)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000020(gb|NP_882291)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000021(gb|NP_882292)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000022(gb|NP_882293)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000023(gb|NP_882294)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000024(gb|NP_882295)	VF0026	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Adherence; Type IV secretory protein
+VFG000025(gb|NP_879578)	VF0028	Toxin; Adenylate cyclase;  RTX toxin
+VFG000026(gb|NP_881965)	VF0029	Toxin; Intracellular toxin; Deamidase; A-B type
+VFG000027(gb|NP_882013)	VF0034	Serum resistance
+VFG000028(gb|NP_882012)	VF0034	Serum resistance
+VFG000029(gb|NP_878986)	VF0033	Endotoxin
+VFG000030(gb|NP_878987)	VF0033	Endotoxin
+VFG000031(gb|NP_878988)	VF0033	Endotoxin
+VFG000032(gb|NP_878989)	VF0033	Endotoxin
+VFG000033(gb|NP_878990)	VF0033	Endotoxin
+VFG000034(gb|NP_878991)	VF0033	Endotoxin
+VFG000035(gb|NP_878992)	VF0033	Endotoxin
+VFG000036(gb|NP_878993)	VF0033	Endotoxin
+VFG000037(gb|NP_878994)	VF0033	Endotoxin
+VFG000038(gb|NP_878995)	VF0033	Endotoxin
+VFG000039(gb|NP_880879)	VF0035	Secretion system; Type III secretion system
+VFG000040(gb|NP_880880)	VF0035	Secretion system; Type III secretion system
+VFG000041(gb|NP_880881)	VF0035	Secretion system; Type III secretion system
+VFG000042(gb|NP_880882)	VF0035	Secretion system; Type III secretion system
+VFG000043(gb|NP_880883)	VF0035	Secretion system; Type III secretion system
+VFG000044(gb|NP_880884)	VF0035	Secretion system; Type III secretion system
+VFG000045(gb|NP_880885)	VF0035	Secretion system; Type III secretion system
+VFG000046(gb|NP_880886)	VF0035	Secretion system; Type III secretion system
+VFG000047(gb|NP_880887)	VF0035	Secretion system; Type III secretion system
+VFG000048(gb|NP_880888)	VF0035	Secretion system; Type III secretion system
+VFG000049(gb|NP_880889)	VF0035	Secretion system; Type III secretion system
+VFG000050(gb|NP_880890)	VF0035	Secretion system; Type III secretion system
+VFG000051(gb|NP_880891)	VF0035	Secretion system; Type III secretion system
+VFG000052(gb|NP_880892)	VF0035	Secretion system; Type III secretion system
+VFG000053(gb|NP_880893)	VF0035	Secretion system; Type III secretion system
+VFG000054(gb|NP_880894)	VF0035	Secretion system; Type III secretion system
+VFG000055(gb|NP_880895)	VF0035	Secretion system; Type III secretion system
+VFG000056(gb|NP_880896)	VF0035	Secretion system; Type III secretion system
+VFG000057(gb|NP_880897)	VF0035	Secretion system; Type III secretion system
+VFG000058(gb|NP_880898)	VF0035	Secretion system; Type III secretion system
+VFG000059(gb|NP_880899)	VF0035	Secretion system; Type III secretion system
+VFG000060(gb|NP_880900)	VF0035	Secretion system; Type III secretion system
+VFG000064(gb|NP_880904)	VF0035	Secretion system; Type III secretion system
+VFG000065(gb|NP_880905)	VF0035	Secretion system; Type III secretion system
+VFG000066(gb|NP_880906)	VF0035	Secretion system; Type III secretion system
+VFG000067(gb|NP_880907)	VF0035	Secretion system; Type III secretion system
+VFG000158(gb|NP_879577)	VF0028	Toxin; Adenylate cyclase;  RTX toxin
+VFG001269(gb|NP_879579)	VF0028	Toxin; Adenylate cyclase;  RTX toxin
+VFG001270(gb|NP_879580)	VF0028	Toxin; Adenylate cyclase;  RTX toxin
+VFG001271(gb|NP_879581)	VF0028	Toxin; Adenylate cyclase;  RTX toxin
+VFG001272(gb|NP_880575)	VF0025	Adherence; Two-partner secretion pathway (TPS)
+VFG046121(gb|NP_881344.1)	VF0537	Adherence; Autotransporter
+VFG002208(gb|NP_541002)	VF0365	Secretion system; Type IV secretion system; Intracellular survival and replication
+VFG002209(gb|NP_541003)	VF0365	Secretion system; Type IV secretion system; Intracellular survival and replication
+VFG002210(gb|NP_541004)	VF0365	Secretion system; Type IV secretion system; Intracellular survival and replication
+VFG002211(gb|NP_541005)	VF0365	Secretion system; Type IV secretion system; Intracellular survival and replication
+VFG002212(gb|NP_541006)	VF0365	Secretion system; Type IV secretion system; Intracellular survival and replication
+VFG002213(gb|NP_541007)	VF0365	Secretion system; Type IV secretion system; Intracellular survival and replication
+VFG002214(gb|NP_541008)	VF0365	Secretion system; Type IV secretion system; Intracellular survival and replication
+VFG002215(gb|NP_541009)	VF0365	Secretion system; Type IV secretion system; Intracellular survival and replication
+VFG002216(gb|NP_541010)	VF0365	Secretion system; Type IV secretion system; Intracellular survival and replication
+VFG002217(gb|NP_541011)	VF0365	Secretion system; Type IV secretion system; Intracellular survival and replication
+VFG002218(gb|NP_541012)	VF0365	Secretion system; Type IV secretion system; Intracellular survival and replication
+VFG002219(gb|NP_540754)	VF0366	Intracellular survival
+VFG002220(gb|NP_540803)	VF0367	Intracellular survival; Intracellular entry; Immuno-modulatory activity
+VFG002221(gb|NP_540311)	VF0367	Intracellular survival; Intracellular entry; Immuno-modulatory activity
+VFG002222(gb|NP_540312)	VF0367	Intracellular survival; Intracellular entry; Immuno-modulatory activity
+VFG002223(gb|NP_540313)	VF0367	Intracellular survival; Intracellular entry; Immuno-modulatory activity
+VFG002224(gb|NP_540321)	VF0367	Intracellular survival; Intracellular entry; Immuno-modulatory activity
+VFG002225(gb|NP_540330)	VF0367	Intracellular survival; Intracellular entry; Immuno-modulatory activity
+VFG002226(gb|NP_540331)	VF0367	Intracellular survival; Intracellular entry; Immuno-modulatory activity
+VFG002227(gb|NP_540332)	VF0367	Intracellular survival; Intracellular entry; Immuno-modulatory activity
+VFG002228(gb|NP_540333)	VF0367	Intracellular survival; Intracellular entry; Immuno-modulatory activity
+VFG002229(gb|NP_540334)	VF0367	Intracellular survival; Intracellular entry; Immuno-modulatory activity
+VFG002230(gb|NP_540335)	VF0367	Intracellular survival; Intracellular entry; Immuno-modulatory activity
+VFG045340(gb|NP_539653)	VF0414	Intracellular survival
+VFG045465(gb|NP_540591)	VF0412	Immune evasion; WxxxE motif protein
+VFG045466(gb|NP_697749)	VF0522	Immune evasion; WxxxE motif protein
+VFG002424(gb|YP_111499)	VF0427	Actin-based intracellular motility; Autotransporters
+VFG002425(gb|YP_107407)	VF0431	Adherence
+VFG002426(gb|YP_109603)	VF0431	Adherence
+VFG002427(gb|YP_109604)	VF0431	Adherence
+VFG002428(gb|YP_109605)	VF0431	Adherence
+VFG002429(gb|YP_111601)	VF0431	Adherence
+VFG002430(gb|YP_111603)	VF0431	Adherence
+VFG002431(gb|YP_111604)	VF0431	Adherence
+VFG002432(gb|YP_111605)	VF0431	Adherence
+VFG002433(gb|YP_111607)	VF0431	Adherence
+VFG002434(gb|YP_111608)	VF0431	Adherence
+VFG002435(gb|YP_111610)	VF0431	Adherence
+VFG002436(gb|YP_110805)	VF0434	Adherence; Autotransporters; Trimeric autotransporters
+VFG002437(gb|YP_108306)	VF0435	Adherence; Autotransporters; Trimeric autotransporters
+VFG002438(gb|YP_111526)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002439(gb|YP_111527)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002440(gb|YP_111528)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002441(gb|YP_111529)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002442(gb|YP_111530)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002443(gb|YP_111531)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002444(gb|YP_111532)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002445(gb|YP_111533)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002446(gb|YP_111534)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002447(gb|YP_111535)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002448(gb|YP_111536)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002449(gb|YP_111537)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002450(gb|YP_111538)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002451(gb|YP_111539)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002452(gb|YP_111540)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002453(gb|YP_111541)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002454(gb|YP_111542)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002455(gb|YP_111543)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002456(gb|YP_111544)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002457(gb|YP_111545)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002458(gb|YP_111546)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002459(gb|YP_111547)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002460(gb|YP_111548)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002461(gb|YP_111549)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002462(gb|YP_111550)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002463(gb|YP_111551)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002464(gb|YP_111552)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002465(gb|YP_111553)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002466(gb|YP_111554)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002467(gb|YP_111555)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002468(gb|YP_111556)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002469(gb|YP_111557)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002470(gb|YP_111558)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002471(gb|YP_111559)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002473(gb|YP_111522)	VF0428	Secretion system; Type III secretion system; Invasion
+VFG002474(gb|YP_111503)	VF0429	Secretion system; Type VI secretion system
+VFG002475(gb|YP_111504)	VF0429	Secretion system; Type VI secretion system
+VFG002476(gb|YP_111505)	VF0429	Secretion system; Type VI secretion system
+VFG002477(gb|YP_111506)	VF0429	Secretion system; Type VI secretion system
+VFG002478(gb|YP_111507)	VF0429	Secretion system; Type VI secretion system
+VFG002479(gb|YP_111508)	VF0429	Secretion system; Type VI secretion system
+VFG002480(gb|YP_111509)	VF0429	Secretion system; Type VI secretion system
+VFG002481(gb|YP_111510)	VF0429	Secretion system; Type VI secretion system
+VFG002482(gb|YP_111511)	VF0429	Secretion system; Type VI secretion system
+VFG002483(gb|YP_111512)	VF0429	Secretion system; Type VI secretion system
+VFG002484(gb|YP_111513)	VF0429	Secretion system; Type VI secretion system
+VFG002485(gb|YP_111514)	VF0429	Secretion system; Type VI secretion system
+VFG002486(gb|YP_111515)	VF0429	Secretion system; Type VI secretion system
+VFG002487(gb|YP_111516)	VF0429	Secretion system; Type VI secretion system
+VFG002488(gb|YP_111517)	VF0429	Secretion system; Type VI secretion system
+VFG002489(gb|YP_111518)	VF0429	Secretion system; Type VI secretion system
+VFG002490(gb|YP_106651)	VF0430	Invasion
+VFG002491(gb|YP_106652)	VF0430	Invasion
+VFG002492(gb|YP_106653)	VF0430	Invasion
+VFG002493(gb|YP_106654)	VF0430	Invasion
+VFG002494(gb|YP_106655)	VF0430	Invasion
+VFG002495(gb|YP_106656)	VF0430	Invasion
+VFG002496(gb|YP_106657)	VF0430	Invasion
+VFG002497(gb|YP_106853)	VF0430	Invasion
+VFG002498(gb|YP_106854)	VF0430	Invasion
+VFG002499(gb|YP_106855)	VF0430	Invasion
+VFG002500(gb|YP_106856)	VF0430	Invasion
+VFG002501(gb|YP_106857)	VF0430	Invasion
+VFG002502(gb|YP_106858)	VF0430	Invasion
+VFG002503(gb|YP_106859)	VF0430	Invasion
+VFG002504(gb|YP_106860)	VF0430	Invasion
+VFG002505(gb|YP_106894)	VF0430	Invasion
+VFG002506(gb|YP_106895)	VF0430	Invasion
+VFG002507(gb|YP_106896)	VF0430	Invasion
+VFG002508(gb|YP_106897)	VF0430	Invasion
+VFG002509(gb|YP_106898)	VF0430	Invasion
+VFG002510(gb|YP_106899)	VF0430	Invasion
+VFG002511(gb|YP_106900)	VF0430	Invasion
+VFG002512(gb|YP_106901)	VF0430	Invasion
+VFG002513(gb|YP_106902)	VF0430	Invasion
+VFG002514(gb|YP_106903)	VF0430	Invasion
+VFG002515(gb|YP_106904)	VF0430	Invasion
+VFG002516(gb|YP_106905)	VF0430	Invasion
+VFG002517(gb|YP_106907)	VF0430	Invasion
+VFG002518(gb|YP_106908)	VF0430	Invasion
+VFG002519(gb|YP_109887)	VF0430	Invasion
+VFG002520(gb|YP_109888)	VF0430	Invasion
+VFG002521(gb|YP_109889)	VF0430	Invasion
+VFG002522(gb|YP_109890)	VF0430	Invasion
+VFG002523(gb|YP_109891)	VF0430	Invasion
+VFG002524(gb|YP_109895)	VF0430	Invasion
+VFG002525(gb|YP_109896)	VF0430	Invasion
+VFG002526(gb|YP_109897)	VF0430	Invasion
+VFG002527(gb|YP_109898)	VF0430	Invasion
+VFG002528(gb|YP_109899)	VF0430	Invasion
+VFG002529(gb|YP_109900)	VF0430	Invasion
+VFG002530(gb|YP_109901)	VF0430	Invasion
+VFG002531(gb|YP_109902)	VF0430	Invasion
+VFG002532(gb|YP_109903)	VF0430	Invasion
+VFG002533(gb|YP_109904)	VF0430	Invasion
+VFG002534(gb|YP_109905)	VF0430	Invasion
+VFG002535(gb|YP_109915)	VF0430	Invasion
+VFG002536(gb|YP_109916)	VF0430	Invasion
+VFG002537(gb|YP_110894)	VF0433	Signaling; Intercellular signaling
+VFG002538(gb|YP_110896)	VF0433	Signaling; Intercellular signaling
+VFG002539(gb|YP_111193)	VF0433	Signaling; Intercellular signaling
+VFG002540(gb|YP_111189)	VF0433	Signaling; Intercellular signaling
+VFG002541(gb|YP_111576)	VF0433	Signaling; Intercellular signaling
+VFG002542(gb|YP_111575)	VF0433	Signaling; Intercellular signaling
+VFG002543(gb|YP_110332)	VF0433	Signaling; Intercellular signaling
+VFG002545(gb|YP_109381)	VF0436	Antiphagocytosis
+VFG002546(gb|YP_109382)	VF0436	Antiphagocytosis
+VFG002547(gb|YP_109383)	VF0436	Antiphagocytosis
+VFG002548(gb|YP_109384)	VF0436	Antiphagocytosis
+VFG002549(gb|YP_109385)	VF0436	Antiphagocytosis
+VFG002550(gb|YP_109386)	VF0436	Antiphagocytosis
+VFG002551(gb|YP_109387)	VF0436	Antiphagocytosis
+VFG002552(gb|YP_109388)	VF0436	Antiphagocytosis
+VFG002553(gb|YP_109389)	VF0436	Antiphagocytosis
+VFG002554(gb|YP_109390)	VF0436	Antiphagocytosis
+VFG002555(gb|YP_109391)	VF0436	Antiphagocytosis
+VFG002556(gb|YP_109392)	VF0436	Antiphagocytosis
+VFG002557(gb|YP_109393)	VF0436	Antiphagocytosis
+VFG002558(gb|YP_109394)	VF0436	Antiphagocytosis
+VFG002559(gb|YP_109395)	VF0436	Antiphagocytosis
+VFG002560(gb|YP_109396)	VF0436	Antiphagocytosis
+VFG002561(gb|YP_109397)	VF0436	Antiphagocytosis
+VFG002562(gb|YP_109398)	VF0436	Antiphagocytosis
+VFG002563(gb|YP_109399)	VF0436	Antiphagocytosis
+VFG002564(gb|YP_109400)	VF0436	Antiphagocytosis
+VFG002565(gb|YP_109401)	VF0436	Antiphagocytosis
+VFG002566(gb|YP_109402)	VF0436	Antiphagocytosis
+VFG002567(gb|YP_109403)	VF0436	Antiphagocytosis
+VFG002568(gb|YP_109404)	VF0436	Antiphagocytosis
+VFG002569(gb|YP_109405)	VF0436	Antiphagocytosis
+VFG045467(gb|YP_107884)	VF0432	Signaling; Intracellular signaling
+VFG001890(gb|NP_281264)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001891(gb|NP_281265)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001892(gb|NP_281274)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001893(gb|NP_281275)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001894(gb|NP_281276)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001895(gb|NP_281279)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001896(gb|NP_281405)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001897(gb|NP_281509)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001898(gb|NP_281510)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001899(gb|NP_281511)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001900(gb|NP_281526)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001901(gb|NP_281527)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001902(gb|NP_281528)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001903(gb|NP_281542)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001905(gb|NP_281710)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001906(gb|NP_281711)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001907(gb|NP_281712)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001908(gb|NP_281731)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001909(gb|NP_281732)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001910(gb|NP_281733)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001911(gb|NP_281859)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001912(gb|NP_281869)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001913(gb|NP_281870)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001914(gb|NP_281892)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001915(gb|NP_281981)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001916(gb|NP_282036)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001917(gb|NP_282040)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001918(gb|NP_282326)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001919(gb|NP_282458)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001920(gb|NP_282459)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001921(gb|NP_282477)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001922(gb|NP_282478)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001923(gb|NP_282484)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001924(gb|NP_282485)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001925(gb|NP_282549)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001926(gb|NP_282602)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001927(gb|NP_282606)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001928(gb|NP_282693)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001929(gb|NP_282802)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001930(gb|NP_282855)	VF0114	Motility; Chemotaxis; Invasion; Phase variation
+VFG001931(gb|NP_282616)	VF0322	Adherence; FnBP
+VFG001932(gb|NP_281290)	VF0115	Toxin; Intracellular toxin; DNaseI; ABC subunit
+VFG001933(gb|NP_281291)	VF0115	Toxin; Intracellular toxin; DNaseI; ABC subunit
+VFG001934(gb|NP_281292)	VF0115	Toxin; Intracellular toxin; DNaseI; ABC subunit
+VFG001935(gb|NP_282066)	VF0324	Invasion
+VFG001936(gb|NP_282283)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG001937(gb|NP_282284)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG001938(gb|NP_282285)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG001939(gb|NP_282286)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG001940(gb|NP_282287)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG001941(gb|NP_282288)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG001942(gb|NP_282289)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG001943(gb|NP_282290)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG001944(gb|NP_282291)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG001947(gb|NP_282294)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG001948(gb|NP_282295)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG001949(gb|NP_282562)	VF0323	Adherence; Phase variation
+VFG001950(gb|NP_282563)	VF0323	Adherence; Phase variation
+VFG001951(gb|NP_282564)	VF0323	Adherence; Phase variation
+VFG001952(gb|NP_282565)	VF0323	Adherence; Phase variation
+VFG001953(gb|NP_282566)	VF0323	Adherence; Phase variation
+VFG001954(gb|NP_282567)	VF0323	Adherence; Phase variation
+VFG001955(gb|NP_282568)	VF0323	Adherence; Phase variation
+VFG001956(gb|NP_282569)	VF0323	Adherence; Phase variation
+VFG001958(gb|NP_282571)	VF0323	Adherence; Phase variation
+VFG001959(gb|NP_282572)	VF0323	Adherence; Phase variation
+VFG001960(gb|NP_282573)	VF0323	Adherence; Phase variation
+VFG001962(gb|NP_282575)	VF0323	Adherence; Phase variation
+VFG001963(gb|NP_282576)	VF0323	Adherence; Phase variation
+VFG001964(gb|NP_282577)	VF0323	Adherence; Phase variation
+VFG001965(gb|NP_282578)	VF0323	Adherence; Phase variation
+VFG001966(gb|NP_282579)	VF0323	Adherence; Phase variation
+VFG001967(gb|NP_282580)	VF0323	Adherence; Phase variation
+VFG001968(gb|NP_282581)	VF0323	Adherence; Phase variation
+VFG001969(gb|NP_282582)	VF0323	Adherence; Phase variation
+VFG001971(gb|NP_282584)	VF0323	Adherence; Phase variation
+VFG001972(gb|NP_282585)	VF0323	Adherence; Phase variation
+VFG001973(gb|NP_282586)	VF0323	Adherence; Phase variation
+VFG001974(gb|NP_282587)	VF0323	Adherence; Phase variation
+VFG001975(gb|NP_282588)	VF0323	Adherence; Phase variation
+VFG001976(gb|YP_980060)	VF0325	Secretion system; Invasion
+VFG001977(gb|YP_980061)	VF0325	Secretion system; Invasion
+VFG001978(gb|YP_980062)	VF0325	Secretion system; Invasion
+VFG001979(gb|NP_863302)	VF0325	Secretion system; Invasion
+VFG001980(gb|YP_980066)	VF0325	Secretion system; Invasion
+VFG001981(gb|NP_863348)	VF0325	Secretion system; Invasion
+VFG001982(gb|NP_863349)	VF0325	Secretion system; Invasion
+VFG001983(gb|NP_282073)	VF0327	Adherence
+VFG001984(gb|NP_282133)	VF0329	Adherence
+VFG001985(gb|NP_282406)	VF0328	Adherence
+VFG001986(gb|NP_282554)	VF0323	Adherence; Phase variation
+VFG001987(gb|NP_282555)	VF0323	Adherence; Phase variation
+VFG001988(gb|NP_282556)	VF0323	Adherence; Phase variation
+VFG001989(gb|NP_282557)	VF0323	Adherence; Phase variation
+VFG002024(gb|NP_282281)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG002025(gb|NP_282282)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG002026(gb|NP_282296)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG002027(gb|NP_282297)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG002028(gb|NP_282298)	VF0326	Adherence; Phase variation; Structural mimicry
+VFG045341(gb|YP_002344633)	VF0415	Invasion
+VFG002124(gb|NP_219591)	VF0344	Secretion system; Type III secretion system
+VFG002125(gb|NP_219592)	VF0344	Secretion system; Type III secretion system
+VFG002126(gb|NP_219593)	VF0344	Secretion system; Type III secretion system
+VFG002127(gb|NP_219594)	VF0344	Secretion system; Type III secretion system
+VFG002128(gb|NP_220074)	VF0344	Secretion system; Type III secretion system
+VFG002130(gb|NP_220076)	VF0344	Secretion system; Type III secretion system
+VFG002131(gb|NP_220077)	VF0344	Secretion system; Type III secretion system
+VFG002132(gb|NP_220078)	VF0344	Secretion system; Type III secretion system
+VFG002133(gb|NP_220079)	VF0344	Secretion system; Type III secretion system
+VFG002134(gb|NP_220091)	VF0344	Secretion system; Type III secretion system
+VFG002136(gb|NP_220093)	VF0344	Secretion system; Type III secretion system
+VFG002137(gb|NP_220094)	VF0344	Secretion system; Type III secretion system
+VFG002138(gb|NP_220182)	VF0344	Secretion system; Type III secretion system
+VFG002139(gb|NP_220183)	VF0344	Secretion system; Type III secretion system
+VFG002140(gb|NP_220184)	VF0344	Secretion system; Type III secretion system
+VFG002141(gb|NP_220185)	VF0344	Secretion system; Type III secretion system
+VFG002142(gb|NP_220186)	VF0344	Secretion system; Type III secretion system
+VFG002143(gb|NP_220187)	VF0344	Secretion system; Type III secretion system
+VFG002144(gb|NP_220188)	VF0344	Secretion system; Type III secretion system
+VFG002145(gb|NP_220189)	VF0344	Secretion system; Type III secretion system
+VFG002146(gb|NP_220190)	VF0344	Secretion system; Type III secretion system
+VFG002147(gb|NP_220191)	VF0344	Secretion system; Type III secretion system
+VFG002148(gb|NP_220192)	VF0344	Secretion system; Type III secretion system
+VFG002149(gb|NP_220193)	VF0344	Secretion system; Type III secretion system
+VFG002150(gb|NP_220382)	VF0344	Secretion system; Type III secretion system
+VFG002151(gb|NP_220383)	VF0344	Secretion system; Type III secretion system
+VFG002152(gb|NP_220384)	VF0344	Secretion system; Type III secretion system
+VFG002154(gb|NP_219969)	VF0344	Secretion system; Type III secretion system
+VFG002274(gb|NP_560952)	VF0378	Toxin; Zinc-metallophospholipase C
+VFG002275(gb|NP_561079)	VF0382	Toxin; Membrane-damaging; Pore-forming; Channel-forming involving beta-sheet-containing toxin (beta-barrel); Cholesterol-dependent cytolysin
+VFG002276(gb|NP_561089)	VF0388	Exoenzyme; Collagenase
+VFG002277(gb|NP_561107)	VF0389	Exoenzyme; Carbohydrate-active enzyme; Hyaluronidase
+VFG002278(gb|NP_561797)	VF0389	Exoenzyme; Carbohydrate-active enzyme; Hyaluronidase
+VFG002279(gb|NP_562150)	VF0389	Exoenzyme; Carbohydrate-active enzyme; Hyaluronidase
+VFG002280(gb|NP_562195)	VF0389	Exoenzyme; Carbohydrate-active enzyme; Hyaluronidase
+VFG002281(gb|NP_562439)	VF0389	Exoenzyme; Carbohydrate-active enzyme; Hyaluronidase
+VFG002282(gb|NP_561762)	VF0390	Exoenzyme; Cysteine endopeptidase
+VFG002283(gb|NP_561641)	VF0391	Exoenzyme; Carbohydrate-active enzyme; Sialidase
+VFG002284(gb|NP_561469)	VF0391	Exoenzyme; Carbohydrate-active enzyme; Sialidase
+VFG002285(gb|YP_695432)	VF0391	Exoenzyme; Carbohydrate-active enzyme; Sialidase
+VFG002286(gb|YP_697710)	VF0383	Toxin; Membrane-damaging; Pore-forming; Channel-forming involving beta-sheet-containing toxin (beta-barrel)
+VFG002287(gb|YP_001087137)	VF0376	Toxin; Intracellular toxin; Glucosyltransferase
+VFG002288(gb|YP_001087135)	VF0377	Toxin; Intracellular toxin; Glucosyltransferase
+VFG002289(gb|NP_783831)	VF0374	Toxin; Intracellular toxin; Neurotoxin; Metalloproteinase; Zn2+-dependent endopeptidase
+VFG002290(gb|ZP_02636811)	VF0379	Toxin; Membrane-damaging; Pore-forming; Channel-forming involving beta-sheet-containing toxin (beta-barrel)
+VFG002291(gb|YP_002291114)	VF0380	Toxin; Membrane-damaging; Pore-forming; Channel-forming involving beta-sheet-containing toxin (beta-barrel); Aerolysin-family
+VFG002292(gb|CAA51959)	VF0381	Toxin; Intracellular toxin; A-B type; ADP-ribosyltransferase
+VFG002293(gb|CAA51960)	VF0381	Toxin; Intracellular toxin; A-B type; ADP-ribosyltransferase
+VFG002294(gb|BAA32536)	VF0384	Toxin; Intracellular toxin; A-B type; ADP-ribosyltransferase
+VFG002295(gb|BAA32537)	VF0384	Toxin; Intracellular toxin; A-B type; ADP-ribosyltransferase
+VFG002296(gb|CAA41768)	VF0387	Toxin; Intracellular toxin; ADP-ribosyltransferase
+VFG002297(gb|ABM73982)	VF0375	Toxin; Intracellular toxin; Neurotoxin; Metalloproteinase; Zn2+-dependent endopeptidase
+VFG002298(gb|AAF81760)	VF0385	Toxin; Intracellular toxin; A-B type; ADP-ribosyltransferase
+VFG002299(gb|AAF81761)	VF0385	Toxin; Intracellular toxin; A-B type; ADP-ribosyltransferase
+VFG002300(gb|CAA88565)	VF0386	Toxin; Intracellular toxin; Glucosyltransferase
+VFG044024(gb|ACA60977)	VF0416	Toxin; Membrane-damaging; Pore-forming; Channel-forming involving beta-sheet-containing toxin (beta-barrel); Aerolysin-family
+VFG002198(gb|NP_938615)	VF0363	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type
+VFG002199(gb|NP_940341)	VF0364	Adherence
+VFG002200(gb|NP_940342)	VF0364	Adherence
+VFG002201(gb|NP_940344)	VF0364	Adherence
+VFG002202(gb|NP_938626)	VF0364	Adherence
+VFG002203(gb|NP_938628)	VF0364	Adherence
+VFG002204(gb|NP_938629)	VF0364	Adherence
+VFG002205(gb|NP_940530)	VF0364	Adherence
+VFG002206(gb|NP_940533)	VF0364	Adherence
+VFG002207(gb|NP_940534)	VF0364	Adherence
+VFG039101(gb|NP_819363)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039106(gb|NP_820604)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039111(gb|NP_820605)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039116(gb|NP_820606)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039121(gb|NP_820607)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039126(gb|NP_820608)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039131(gb|NP_820609)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039136(gb|NP_820610)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039141(gb|NP_820611)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039146(gb|NP_820612)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039151(gb|NP_820613)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039156(gb|NP_820614)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039161(gb|NP_820615)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039166(gb|NP_820616)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039171(gb|YP_002333017)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039176(gb|NP_820623)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039181(gb|NP_820624)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039186(gb|NP_820625)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039191(gb|NP_820626)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039196(gb|NP_820627)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039201(gb|NP_820630)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039206(gb|NP_820631)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039211(gb|NP_820632)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG039216(gb|NP_820634)	VF0503	Secretion system; Type IV secretion system; Type IVb
+VFG002164(gb|NP_817031)	VF0352	Adherence
+VFG002165(gb|NP_815739)	VF0354	Adherence
+VFG002166(gb|NP_814829)	VF0355	Adherence; MSCRAMM
+VFG002171(gb|NP_813951)	VF0352	Adherence
+VFG002172(gb|NP_814266)	VF0352	Adherence
+VFG002173(gb|NP_816972)	VF0352	Adherence
+VFG002174(gb|NP_815516)	VF0357	Exoenzyme; Zinc metalloproteinase; Biofilm formation
+VFG002175(gb|AAM75248)	VF0356	Toxin; Hemolysin/bacteriocin; Biofilm formation
+VFG002176(gb|AAM75252)	VF0356	Toxin; Hemolysin/bacteriocin; Biofilm formation
+VFG002177(gb|AAM75253)	VF0356	Toxin; Hemolysin/bacteriocin; Biofilm formation
+VFG002178(gb|AAM75254)	VF0356	Toxin; Hemolysin/bacteriocin; Biofilm formation
+VFG002179(gb|AAD09858)	VF0353	Adherence; Biofilm formation
+VFG002180(gb|NP_816131)	VF0361	Antiphagocytosis
+VFG002181(gb|NP_816132)	VF0361	Antiphagocytosis
+VFG002182(gb|NP_816133)	VF0361	Antiphagocytosis
+VFG002183(gb|NP_816134)	VF0361	Antiphagocytosis
+VFG002184(gb|NP_816135)	VF0361	Antiphagocytosis
+VFG002185(gb|NP_816136)	VF0361	Antiphagocytosis
+VFG002186(gb|NP_816137)	VF0361	Antiphagocytosis
+VFG002187(gb|NP_816138)	VF0361	Antiphagocytosis
+VFG002188(gb|NP_816139)	VF0361	Antiphagocytosis
+VFG002189(gb|NP_816140)	VF0361	Antiphagocytosis
+VFG002190(gb|NP_816141)	VF0361	Antiphagocytosis
+VFG002191(gb|NP_815515)	VF0358	Exoenzyme; Serine protease
+VFG002192(gb|NP_815517)	VF0360	Quorum sensing system; Two-component system
+VFG002193(gb|NP_815518)	VF0360	Quorum sensing system; Two-component system
+VFG002194(gb|NP_815519)	VF0360	Quorum sensing system; Two-component system
+VFG002195(gb|NP_814561)	VF0359	Exoenzyme; Spreading factor
+VFG002196(gb|NP_816637)	VF0359	Exoenzyme; Spreading factor
+VFG002197(gb|NP_814691)	VF0362	Biofilm formation
+VFG042976(gb|NP_814821)	VF0538	Adherence; Biofilm formation; Sortase-assembled pili
+VFG042977(gb|NP_814822)	VF0538	Adherence; Biofilm formation; Sortase-assembled pili
+VFG042978(gb|NP_814823)	VF0538	Adherence; Biofilm formation; Sortase-assembled pili
+VFG042979(gb|NP_814824)	VF0538	Adherence; Biofilm formation; Sortase-assembled pili
+VFG043511(gb|ZP_00602747)	VF0540	Adherence; Biofilm formation
+VFG043518(gb|AAN12397)	VF0419	Adherence; MSCRAMM
+VFG043519(gb|ZP_00604835)	VF0418	Adherence; MSCRAMM
+VFG045470(gb|AAM75247)	VF0356	Toxin; Hemolysin/bacteriocin; Biofilm formation
+VFG045472(gb|AAM75249)	VF0356	Toxin; Hemolysin/bacteriocin; Biofilm formation
+VFG045473(gb|AAM75250)	VF0356	Toxin; Hemolysin/bacteriocin; Biofilm formation
+VFG045474(gb|AAM75251)	VF0356	Toxin; Hemolysin/bacteriocin; Biofilm formation
+VFG045632(gb|YP_006376434)	VF0539	Adherence; MSCRAMM
+VFG000739(gb|AAC38392)	VF0177	Adherence; Autotransporter; Type Ve
+VFG000743(gb|AAC38395)	VF0180	Type III translocated protein
+VFG000744(gb|AAC38396)	VF0179	Type III translocated protein
+VFG000748(gb|AAC38400)	VF0182	Type III translocated protein
+VFG000749(gb|BAA84838)	VF0174	Adherence; Type IV pilus
+VFG000750(gb|YP_002332158)	VF0174	Adherence; Type IV pilus
+VFG000751(gb|YP_002332159)	VF0174	Adherence; Type IV pilus
+VFG000752(gb|YP_002332160)	VF0174	Adherence; Type IV pilus
+VFG000753(gb|BAA84842)	VF0174	Adherence; Type IV pilus
+VFG000754(gb|BAA84843)	VF0174	Adherence; Type IV pilus
+VFG000755(gb|YP_002332163)	VF0174	Adherence; Type IV pilus
+VFG000756(gb|BAA84845)	VF0174	Adherence; Type IV pilus
+VFG000757(gb|YP_002332165)	VF0174	Adherence; Type IV pilus
+VFG000758(gb|BAA84847)	VF0174	Adherence; Type IV pilus
+VFG000759(gb|BAA84848)	VF0174	Adherence; Type IV pilus
+VFG000760(gb|YP_002332168)	VF0174	Adherence; Type IV pilus
+VFG000761(gb|BAA84850)	VF0174	Adherence; Type IV pilus
+VFG000762(gb|YP_002332170)	VF0174	Adherence; Type IV pilus
+VFG000772(gb|AAG37043)	VF0173	Protease; Autotransporter
+VFG000794(gb|NP_290250)	VF0196	Type III translocated protein
+VFG000796(gb|NP_290252)	VF0191	Secretion system; Type III secretion system
+VFG000799(gb|NP_290255)	VF0200	Type III translocated protein; Translocon apparatus
+VFG000800(gb|NP_290256)	VF0198	Type III translocated protein; Adherence
+VFG000801(gb|NP_290257)	VF0191	Secretion system; Type III secretion system
+VFG000802(gb|NP_290258)	VF0191	Secretion system; Type III secretion system
+VFG000805(gb|NP_290261)	VF0193	Type III translocated protein
+VFG000806(gb|NP_290262)	VF0195	Type III translocated protein
+VFG000807(gb|NP_290263)	VF0191	Secretion system; Type III secretion system
+VFG000808(gb|NP_290264)	VF0197	Type III translocated protein
+VFG000809(gb|NP_290265)	VF0191	Secretion system; Type III secretion system
+VFG000812(gb|NP_290268)	VF0191	Secretion system; Type III secretion system
+VFG000813(gb|NP_290269)	VF0191	Secretion system; Type III secretion system
+VFG000815(gb|NP_290271)	VF0191	Secretion system; Type III secretion system
+VFG000817(gb|NP_290273)	VF0191	Secretion system; Type III secretion system
+VFG000819(gb|NP_290275)	VF0191	Secretion system; Type III secretion system
+VFG000820(gb|NP_290276)	VF0191	Secretion system; Type III secretion system
+VFG000824(gb|NP_290280)	VF0191	Secretion system; Type III secretion system
+VFG000825(gb|NP_290281)	VF0191	Secretion system; Type III secretion system
+VFG000826(gb|NP_290282)	VF0191	Secretion system; Type III secretion system
+VFG000827(gb|NP_290283)	VF0191	Secretion system; Type III secretion system
+VFG000833(gb|NP_290289)	VF0201	Type III translocated protein
+VFG000835(gb|NP_288673)	VF0206	Toxin; A-B type; N-glycosidase
+VFG000836(gb|NP_288672)	VF0206	Toxin; A-B type; N-glycosidase
+VFG000837(gb|NP_286976)	VF0206	Toxin; A-B type; N-glycosidase
+VFG000838(gb|NP_286977)	VF0206	Toxin; A-B type; N-glycosidase
+VFG000839(gb|NP_287515)	VF0194	Adherence
+VFG000840(gb|YP_325608)	VF0207	Toxin; Membrane-damaging; Pore-forming; RTX toxin
+VFG000841(gb|YP_325609)	VF0207	Toxin; Membrane-damaging; Pore-forming; RTX toxin
+VFG000842(gb|YP_325607)	VF0207	Toxin; Membrane-damaging; Pore-forming; RTX toxin
+VFG000843(gb|YP_325610)	VF0207	Toxin; Membrane-damaging; Pore-forming; RTX toxin
+VFG000844(gb|YP_325580)	VF0208	Protease; Autotransporter
+VFG000845(gb|YP_325655)	VF0203	Adherence
+VFG000846(gb|YP_325591)	VF0209	Protease
+VFG000847(gb|AAA57454)	VF0214	Adherence
+VFG000848(gb|AAA57453)	VF0214	Adherence
+VFG000849(gb|AAA57452)	VF0214	Adherence
+VFG000850(gb|AAA57451)	VF0214	Adherence
+VFG000851(gb|AAB82330)	VF0214	Adherence
+VFG000852(gb|AAD26595)	VF0214	Adherence
+VFG000853(gb|AAD27810)	VF0214	Adherence
+VFG000854(gb|AAD27809)	VF0214	Adherence
+VFG000855(gb|AAM88298)	VF0214	Adherence
+VFG000856(gb|AAM88297)	VF0214	Adherence
+VFG000857(gb|AAM88296)	VF0214	Adherence
+VFG000858(gb|AAM88295)	VF0214	Adherence
+VFG000859(gb|YP_006098866)	VF0219	Toxin; A-B type; Enterotoxin
+VFG000860(gb|YP_006098865)	VF0219	Toxin; A-B type; Enterotoxin
+VFG000861(gb|YP_006098864)	VF0218	Toxin; Serine protease; Autotransporter
+VFG000862(gb|YP_006099165)	VF0217	Toxin; Intracellular toxin; Serine protease; Autotransporter
+VFG000863(gb|BAA94855)	VF0216	Toxin; Membrane-acting; Guanylate cyclase
+VFG000865(gb|YP_006099176)	VF0215	Adherence
+VFG000871(gb|NP_757239)	VF0221	Adherence; Invasion
+VFG000872(gb|NP_757240)	VF0221	Adherence; Invasion
+VFG000873(gb|NP_757241)	VF0221	Adherence; Invasion
+VFG000874(gb|NP_757242)	VF0221	Adherence; Invasion
+VFG000875(gb|NP_757243)	VF0221	Adherence; Invasion
+VFG000876(gb|NP_757244)	VF0221	Adherence; Invasion
+VFG000877(gb|NP_757245)	VF0221	Adherence; Invasion
+VFG000878(gb|NP_757247)	VF0221	Adherence; Invasion
+VFG000879(gb|NP_757248)	VF0221	Adherence; Invasion
+VFG000880(gb|NP_755468)	VF0220	Adherence
+VFG000881	VF0220	Adherence
+VFG000882(gb|NP_755467)	VF0220	Adherence
+VFG000883(gb|NP_755466)	VF0220	Adherence
+VFG000884(gb|NP_755465)	VF0220	Adherence
+VFG000885(gb|NP_755464)	VF0220	Adherence
+VFG000886(gb|NP_755463)	VF0220	Adherence
+VFG000887(gb|NP_755461)	VF0220	Adherence
+VFG000888(gb|NP_755460)	VF0220	Adherence
+VFG000889(gb|NP_755459)	VF0220	Adherence
+VFG000890(gb|NP_755458)	VF0220	Adherence
+VFG000902(gb|NP_755494)	VF0231	Protease; Autotransporter
+VFG000903(gb|NP_752289)	VF0232	Protease; Autotransporter
+VFG000904(gb|NP_752330)	VF0233	Protease; Autotransporter
+VFG000905(gb|NP_755444)	VF0225	Toxin; Membrane-damaging; Pore-forming; RTX toxin
+VFG000906(gb|NP_755445)	VF0225	Toxin; Membrane-damaging; Pore-forming; RTX toxin
+VFG000907(gb|NP_755448)	VF0225	Toxin; Membrane-damaging; Pore-forming; RTX toxin
+VFG000908(gb|NP_755449)	VF0225	Toxin; Membrane-damaging; Pore-forming; RTX toxin
+VFG000909(gb|NP_753153)	VF0224	Adherence
+VFG000910(gb|NP_753154)	VF0224	Adherence
+VFG000911(gb|NP_753155)	VF0224	Adherence
+VFG000912(gb|NP_753156)	VF0224	Adherence
+VFG000913(gb|NP_753157)	VF0224	Adherence
+VFG000914(gb|NP_753158)	VF0224	Adherence
+VFG000915(gb|NP_753159)	VF0224	Adherence
+VFG000916(gb|NP_756169)	VF0227	Iron uptake; Heme uptake
+VFG000917(gb|NP_756170)	VF0227	Iron uptake; Heme uptake
+VFG000918(gb|NP_756175)	VF0227	Iron uptake; Heme uptake
+VFG000919(gb|NP_756176)	VF0227	Iron uptake; Heme uptake
+VFG000920(gb|NP_756177)	VF0227	Iron uptake; Heme uptake
+VFG000921(gb|NP_756178)	VF0227	Iron uptake; Heme uptake
+VFG000922(gb|NP_756179)	VF0227	Iron uptake; Heme uptake
+VFG000923(gb|NP_752600)	VF0228	Iron uptake; Siderophore
+VFG000924(gb|NP_752610)	VF0228	Iron uptake; Siderophore
+VFG000925(gb|NP_752606)	VF0228	Iron uptake; Siderophore
+VFG000926(gb|NP_752608)	VF0228	Iron uptake; Siderophore
+VFG000928(gb|NP_752607)	VF0228	Iron uptake; Siderophore
+VFG000929(gb|NP_752599)	VF0228	Iron uptake; Siderophore
+VFG000930(gb|NP_752604)	VF0228	Iron uptake; Siderophore
+VFG000931(gb|NP_752611)	VF0228	Iron uptake; Siderophore
+VFG000932(gb|NP_752612)	VF0228	Iron uptake; Siderophore
+VFG000933(gb|NP_752613)	VF0228	Iron uptake; Siderophore
+VFG000934(gb|NP_752614)	VF0228	Iron uptake; Siderophore
+VFG000935(gb|NP_753164)	VF0230	Iron uptake; Siderophore receptor
+VFG000936(gb|NP_755498)	VF0229	Iron uptake; Siderophore
+VFG000937(gb|NP_755499)	VF0229	Iron uptake; Siderophore
+VFG000938(gb|NP_755500)	VF0229	Iron uptake; Siderophore
+VFG000939(gb|NP_755501)	VF0229	Iron uptake; Siderophore
+VFG000940(gb|NP_755502)	VF0229	Iron uptake; Siderophore
+VFG000942(gb|AAK16475)	VF0223	Adherence
+VFG000943(gb|AAK16476)	VF0223	Adherence
+VFG000944(gb|AAK16477)	VF0223	Adherence
+VFG000945(gb|AAK16478)	VF0223	Adherence
+VFG000946(gb|AAK16479)	VF0223	Adherence
+VFG001424(gb|AAB65153)	VF0212	Adherence
+VFG001425(gb|CAA54121)	VF0212	Adherence
+VFG001426(gb|CAW30801)	VF0212	Adherence
+VFG001427(gb|AAA23661)	VF0212	Adherence
+VFG001428(gb|AAK16480)	VF0212	Adherence
+VFG001429(gb|AAT07441)	VF0213	Adherence
+VFG001430(gb|AAA23614)	VF0213	Adherence
+VFG001431(gb|CAA11820)	VF0213	Adherence
+VFG001432(gb|AAC45093)	VF0213	Adherence
+VFG001433(gb|AAK09045)	VF0213	Adherence
+VFG001434(gb|AAK09047)	VF0213	Adherence
+VFG001435(gb|AAC41415)	VF0213	Adherence
+VFG001436(gb|BAB62897)	VF0213	Adherence
+VFG001437(gb|AAD30557)	VF0213	Adherence
+VFG001438(gb|AAS89777)	VF0213	Adherence
+VFG001439(gb|AAL31637)	VF0213	Adherence
+VFG001442(gb|AAF98391)	VF0237	Invasion
+VFG001443(gb|AAF37887)	VF0236	Invasion; Serum resistance
+VFG001444(gb|AAG10151)	VF0238	Invasion
+VFG001446(gb|YP_540124)	VF0222	Adherence
+VFG001447(gb|CAA50007)	VF0240	Toxin; Intracellular toxin; Deamidase
+VFG001448(gb|AAA21682)	VF0239	Invasion; Antiphagocytosis
+VFG001449(gb|AAA24047)	VF0239	Invasion; Antiphagocytosis
+VFG001450(gb|AAA24046)	VF0239	Invasion; Antiphagocytosis
+VFG001534(gb|AAD49229)	VF0204	Adherence
+VFG002037(gb|AAA24685)	VF0210	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type
+VFG002038(gb|AAA98064)	VF0210	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type
+VFG002039(gb|YP_003294006)	VF0211	Toxin; Membrane-acting; STa: Guanylate cyclase
+VFG002121(gb|NP_287961)	VF0338	Type III translocated protein
+VFG002122(gb|NP_286533)	VF0340	Type III translocated protein
+VFG002123(gb|NP_286535)	VF0343	Type III translocated protein
+VFG002412(gb|NP_286009)	VF0404	Adherence
+VFG002413(gb|NP_286011)	VF0404	Adherence
+VFG002414(gb|NP_286010)	VF0404	Adherence
+VFG002415(gb|NP_286008)	VF0404	Adherence
+VFG002416(gb|NP_286007)	VF0404	Adherence
+VFG002417(gb|NP_286006)	VF0404	Adherence
+VFG012327(gb|YP_540122)	VF0222	Adherence
+VFG012329(gb|YP_540123)	VF0222	Adherence
+VFG012333(gb|YP_540125)	VF0222	Adherence
+VFG012335(gb|YP_540126)	VF0222	Adherence
+VFG012337(gb|YP_540127)	VF0222	Adherence
+VFG012339(gb|YP_540128)	VF0222	Adherence
+VFG012341(gb|YP_540129)	VF0222	Adherence
+VFG012343(gb|YP_540130)	VF0222	Adherence
+VFG012362(gb|NP_290254)	VF0191	Secretion system; Type III secretion system
+VFG033805(gb|YP_003498587)	VF0342	Type III translocated protein
+VFG034541(gb|YP_006203830)	VF0437	Adherence; Autotransporter; TBS
+VFG042218(gb|AAN07916)	VF0205	Type III translocated protein
+VFG042382(gb|CBJ04459)	VF0437	Adherence; Autotransporter; TBS
+VFG042389(gb|YP_540131)	VF0222	Adherence
+VFG042390(gb|YP_540132)	VF0222	Adherence
+VFG043732(gb|CAD48849)	VF0185	Toxin; Intracellular toxin; DNaseI; ABC subunit
+VFG043733(gb|CAD48850)	VF0185	Toxin; Intracellular toxin; DNaseI; ABC subunit
+VFG043734(gb|CAD48851)	VF0185	Toxin; Intracellular toxin; DNaseI; ABC subunit
+VFG044172(gb|NP_756180)	VF0227	Iron uptake; Heme uptake
+VFG045328(gb|AHY03744)	VF0188	Toxin; Membrane-acting; Guanylate cyclase
+VFG045339(gb|EIQ72111)	VF0339	Type III translocated protein
+VFG045349(gb|YP_002390132)	VF0506	Adherence; Autotransporter; Type Ve
+VFG045464(gb|NP_754290)	VF0413	Immune evasion
+VFG000326(gb|NP_439686)	VF0044	Endotoxin
+VFG000327(gb|NP_439687)	VF0044	Endotoxin
+VFG000328(gb|NP_439688)	VF0044	Endotoxin
+VFG000329(gb|NP_439689)	VF0044	Endotoxin
+VFG000330(gb|NP_438812)	VF0044	Endotoxin
+VFG000331(gb|NP_439675)	VF0044	Endotoxin
+VFG000332(gb|NP_439271)	VF0044	Endotoxin
+VFG000333(gb|NP_438708)	VF0044	Endotoxin
+VFG000334(gb|NP_438494)	VF0040	Adherence; Nonfimbrial structure
+VFG000335(gb|NP_439322)	VF0041	Adherence; Fimbrial structure; Antigenic drift
+VFG000336(gb|NP_438308)	VF0042	Immune evasion; Phase variation
+VFG000337(gb|NP_439153)	VF0045	IgA1 Protease; Serine protease
+VFG000338(gb|NP_439157)	VF0267	Iron uptake; Transferrin-binding protein
+VFG000339(gb|NP_439158)	VF0267	Iron uptake; Transferrin-binding protein
+VFG000340(gb|NP_438433)	VF0269	Iron uptake; Heme uptake
+VFG000341(gb|NP_438432)	VF0269	Iron uptake; Heme uptake
+VFG000344(gb|NP_438273)	VF0268	Iron uptake; ABC transporter
+VFG000347(gb|NP_438870)	VF0270	Iron uptake; Heme uptake
+VFG000348(gb|NP_438431)	VF0269	Iron uptake; Heme uptake
+VFG000696(gb|AAP42188)	VF0043	Antiphagocytosis
+VFG000697(gb|AAP42189)	VF0043	Antiphagocytosis
+VFG000698(gb|AAP42190)	VF0043	Antiphagocytosis
+VFG000699(gb|AAP42191)	VF0043	Antiphagocytosis
+VFG000700(gb|AAP42192)	VF0043	Antiphagocytosis
+VFG000701(gb|AAP42193)	VF0043	Antiphagocytosis
+VFG000702(gb|AAP42194)	VF0043	Antiphagocytosis
+VFG000703(gb|AAP42195)	VF0043	Antiphagocytosis
+VFG000704(gb|AAP42196)	VF0043	Antiphagocytosis
+VFG000705(gb|AAP42197)	VF0043	Antiphagocytosis
+VFG001144(gb|CAA83905)	VF0036	Adherence; Phase variation; Fimbrial structure
+VFG001145(gb|CAA83901)	VF0036	Adherence; Phase variation; Fimbrial structure
+VFG001146(gb|CAA83902)	VF0036	Adherence; Phase variation; Fimbrial structure
+VFG001147(gb|CAA83903)	VF0036	Adherence; Phase variation; Fimbrial structure
+VFG001148(gb|CAA83904)	VF0036	Adherence; Phase variation; Fimbrial structure
+VFG001149(gb|AAB03707)	VF0037	Adherence; Autotransporter; Serine protease; Nonfimbrial structure
+VFG001150(gb|AAL79954)	VF0039	Adherence; Autotransporter; Fimbrial structure
+VFG001151(gb|AAA20527)	VF0038	Adherence; Autotransporter; Nonfimbrial structure
+VFG001152(gb|AAA20528)	VF0038	Adherence; Autotransporter; Nonfimbrial structure
+VFG001153(gb|AAA20529)	VF0038	Adherence; Autotransporter; Nonfimbrial structure
+VFG001154(gb|AAA20524)	VF0038	Adherence; Autotransporter; Nonfimbrial structure
+VFG001155(gb|AAA20525)	VF0038	Adherence; Autotransporter; Nonfimbrial structure
+VFG001156(gb|AAA20526)	VF0038	Adherence; Autotransporter; Nonfimbrial structure
+VFG001157(gb|AAC44560)	VF0039	Adherence; Autotransporter; Fimbrial structure
+VFG045329(gb|AAB36696)	VF0271	Iron uptake; Heme uptake
+VFG000269(gb|NP_206873)	VF0050	Enzyme; Acid resistance; Colonization
+VFG000270(gb|NP_206872)	VF0050	Enzyme; Acid resistance; Colonization
+VFG000271(gb|NP_206871)	VF0050	Enzyme; Acid resistance; Colonization
+VFG000272(gb|NP_206870)	VF0050	Enzyme; Acid resistance; Colonization
+VFG000273(gb|NP_206869)	VF0050	Enzyme; Acid resistance; Colonization
+VFG000274(gb|NP_206868)	VF0050	Enzyme; Acid resistance; Colonization
+VFG000275(gb|NP_206867)	VF0050	Enzyme; Acid resistance; Colonization
+VFG000276(gb|NP_207396)	VF0051	Motility
+VFG000277(gb|NP_206915)	VF0051	Motility
+VFG000278(gb|NP_207664)	VF0051	Motility
+VFG000279(gb|NP_207680)	VF0058	Toxin; Pore-forming; A-B type
+VFG000280(gb|NP_207317)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000282(gb|NP_207318)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000283(gb|NP_207319)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000284(gb|NP_207320)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000285(gb|NP_207321)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000286(gb|NP_207322)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000287(gb|NP_207323)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000288(gb|NP_207324)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000289(gb|NP_207325)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000290(gb|NP_207326)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000291(gb|NP_207327)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000292(gb|NP_207328)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000293(gb|NP_207330)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000294(gb|NP_207331)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000295(gb|NP_207332)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000296(gb|NP_207333)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000297(gb|NP_207334)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000298(gb|NP_207335)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000299(gb|NP_207336)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000300(gb|NP_207337)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000301(gb|NP_207338)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000302(gb|NP_207339)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000303(gb|NP_207340)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000304(gb|NP_207341)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000305(gb|NP_207342)	VF0060	Secretion system; Type IV secretion system; Proinflammatory effect
+VFG000306(gb|NP_207343)	VF0059	Type IV secretory protein
+VFG000307(gb|NP_207041)	VF0052	Proinflammatory effect
+VFG000308(gb|NP_207177)	VF0057	Molecular mimicry
+VFG000309(gb|NP_207445)	VF0057	Molecular mimicry
+VFG000310(gb|NP_207124)	VF0057	Molecular mimicry
+VFG000312(gb|NP_207519)	VF0055	Adherence
+VFG000313(gb|NP_207965)	VF0056	Endotoxin; Low toxicity; Adherence
+VFG000314(gb|NP_207158)	VF0056	Endotoxin; Low toxicity; Adherence
+VFG000315(gb|NP_206844)	VF0056	Endotoxin; Low toxicity; Adherence
+VFG000316(gb|NP_207077)	VF0056	Endotoxin; Low toxicity; Adherence
+VFG000317(gb|NP_206958)	VF0056	Endotoxin; Low toxicity; Adherence
+VFG000318(gb|NP_208207)	VF0056	Endotoxin; Low toxicity; Adherence
+VFG000319(gb|NP_207473)	VF0056	Endotoxin; Low toxicity; Adherence
+VFG000320(gb|NP_208266)	VF0056	Endotoxin; Low toxicity; Adherence
+VFG000321(gb|NP_206845)	VF0056	Endotoxin; Low toxicity; Adherence
+VFG000322(gb|NP_206846)	VF0056	Endotoxin; Low toxicity; Adherence
+VFG000323(gb|NP_207661)	VF0056	Endotoxin; Low toxicity; Adherence
+VFG000324(gb|NP_223551)	VF0053	Adherence
+VFG000325(gb|NP_223882)	VF0053	Adherence
+VFG001142(gb|NP_206811)	VF0054	Adherence
+VFG001143(gb|NP_207432)	VF0266	Proinflammatory effect
+VFG001830(gb|YP_094485)	VF0156	Secretion system; Type IV secretion system
+VFG001831(gb|YP_094486)	VF0156	Secretion system; Type IV secretion system
+VFG001832(gb|YP_094487)	VF0156	Secretion system; Type IV secretion system
+VFG001833(gb|YP_094488)	VF0156	Secretion system; Type IV secretion system
+VFG001834(gb|YP_094489)	VF0156	Secretion system; Type IV secretion system
+VFG001835(gb|YP_094490)	VF0156	Secretion system; Type IV secretion system
+VFG001836(gb|YP_094492)	VF0156	Secretion system; Type IV secretion system
+VFG001837(gb|YP_094493)	VF0156	Secretion system; Type IV secretion system
+VFG001838(gb|YP_094494)	VF0156	Secretion system; Type IV secretion system
+VFG001839(gb|YP_094495)	VF0156	Secretion system; Type IV secretion system
+VFG001840(gb|YP_094496)	VF0156	Secretion system; Type IV secretion system
+VFG001841(gb|YP_094497)	VF0156	Secretion system; Type IV secretion system
+VFG001842(gb|YP_094498)	VF0156	Secretion system; Type IV secretion system
+VFG001843(gb|YP_094499)	VF0156	Secretion system; Type IV secretion system
+VFG001844(gb|YP_094500)	VF0156	Secretion system; Type IV secretion system
+VFG001845(gb|YP_094502)	VF0156	Secretion system; Type IV secretion system
+VFG001846(gb|YP_094503)	VF0156	Secretion system; Type IV secretion system
+VFG001847(gb|YP_096679)	VF0156	Secretion system; Type IV secretion system
+VFG001848(gb|YP_096680)	VF0156	Secretion system; Type IV secretion system
+VFG001849(gb|YP_096681)	VF0156	Secretion system; Type IV secretion system
+VFG001850(gb|YP_096691)	VF0156	Secretion system; Type IV secretion system
+VFG001851(gb|YP_096692)	VF0156	Secretion system; Type IV secretion system
+VFG001852(gb|YP_096693)	VF0156	Secretion system; Type IV secretion system
+VFG001853(gb|YP_096694)	VF0156	Secretion system; Type IV secretion system
+VFG001854(gb|YP_095369)	VF0157	Motility
+VFG001855(gb|YP_094724)	VF0159	Adherence
+VFG001856(gb|YP_094893)	VF0292	Iron uptake
+VFG001857(gb|YP_094782)	VF0293	Iron uptake
+VFG001858(gb|YP_096663)	VF0160	Iron uptake; Ferrous iron uptake
+VFG001859(gb|YP_096662)	VF0160	Iron uptake; Ferrous iron uptake
+VFG001860(gb|YP_096795)	VF0290	Iron uptake; Siderophore
+VFG001861(gb|YP_094248)	VF0168	Stress protein
+VFG001862(gb|YP_096397)	VF0168	Stress protein
+VFG001863(gb|YP_094729)	VF0165	unknow
+VFG001864(gb|YP_094827)	VF0153	Enzyme
+VFG001865(gb|YP_094653)	VF0161	Adherence
+VFG001867(gb|YP_096960)	VF0169	Stress protein
+VFG001868(gb|YP_096357)	VF0170	Stress protein
+VFG001870(gb|YP_095392)	VF0154	Secretion system; Type II secretion system
+VFG001871(gb|YP_095391)	VF0154	Secretion system; Type II secretion system
+VFG001872(gb|YP_095390)	VF0154	Secretion system; Type II secretion system
+VFG001873(gb|YP_095389)	VF0154	Secretion system; Type II secretion system
+VFG001874(gb|YP_095388)	VF0154	Secretion system; Type II secretion system
+VFG001875(gb|YP_095387)	VF0154	Secretion system; Type II secretion system
+VFG001876(gb|YP_095349)	VF0154	Secretion system; Type II secretion system
+VFG001877(gb|YP_095350)	VF0154	Secretion system; Type II secretion system
+VFG001878(gb|YP_095894)	VF0154	Secretion system; Type II secretion system
+VFG001879(gb|YP_095895)	VF0154	Secretion system; Type II secretion system
+VFG001880(gb|YP_095551)	VF0155	Adherence
+VFG001881(gb|YP_095552)	VF0155	Adherence
+VFG001882(gb|YP_095553)	VF0155	Adherence
+VFG001883(gb|YP_096644)	VF0163	unknow
+VFG001884(gb|YP_096645)	VF0163	unknow
+VFG001885(gb|YP_096646)	VF0163	unknow
+VFG001990(gb|YP_094942)	VF0157	Motility
+VFG001991(gb|YP_095247)	VF0157	Motility
+VFG001992(gb|YP_095248)	VF0157	Motility
+VFG001993(gb|YP_095249)	VF0157	Motility
+VFG001994(gb|YP_095250)	VF0157	Motility
+VFG001995(gb|YP_095251)	VF0157	Motility
+VFG001996(gb|YP_095252)	VF0157	Motility
+VFG001997(gb|YP_095253)	VF0157	Motility
+VFG001998(gb|YP_095254)	VF0157	Motility
+VFG001999(gb|YP_095256)	VF0157	Motility
+VFG002000(gb|YP_095257)	VF0157	Motility
+VFG002001(gb|YP_095366)	VF0157	Motility
+VFG002002(gb|YP_095367)	VF0157	Motility
+VFG002003(gb|YP_095782)	VF0157	Motility
+VFG002004(gb|YP_095784)	VF0157	Motility
+VFG002005(gb|YP_095785)	VF0157	Motility
+VFG002006(gb|YP_095786)	VF0157	Motility
+VFG002007(gb|YP_095787)	VF0157	Motility
+VFG002008(gb|YP_095806)	VF0157	Motility
+VFG002009(gb|YP_095807)	VF0157	Motility
+VFG002011(gb|YP_095810)	VF0157	Motility
+VFG002012(gb|YP_095811)	VF0157	Motility
+VFG002013(gb|YP_095812)	VF0157	Motility
+VFG002014(gb|YP_095813)	VF0157	Motility
+VFG002015(gb|YP_095814)	VF0157	Motility
+VFG002016(gb|YP_095815)	VF0157	Motility
+VFG002017(gb|YP_095816)	VF0157	Motility
+VFG002018(gb|YP_095817)	VF0157	Motility
+VFG002019(gb|YP_095818)	VF0157	Motility
+VFG002095(gb|YP_095966)	VF0156	Secretion system; Type IV secretion system
+VFG002096(gb|YP_094974)	VF0156	Secretion system; Type IV secretion system
+VFG002097(gb|YP_094583)	VF0337	Nutrient acquisition; Transporter
+VFG002098(gb|YP_096789)	VF0156	Secretion system; Type IV secretion system
+VFG002099(gb|YP_096497)	VF0156	Secretion system; Type IV secretion system
+VFG002100(gb|YP_096307)	VF0156	Secretion system; Type IV secretion system
+VFG002101(gb|YP_096518)	VF0156	Secretion system; Type IV secretion system
+VFG002102(gb|YP_094568)	VF0156	Secretion system; Type IV secretion system
+VFG002103(gb|YP_096722)	VF0156	Secretion system; Type IV secretion system
+VFG002104(gb|YP_094678)	VF0156	Secretion system; Type IV secretion system
+VFG002105(gb|YP_096218)	VF0156	Secretion system; Type IV secretion system
+VFG002106(gb|YP_095901)	VF0156	Secretion system; Type IV secretion system
+VFG002107(gb|YP_094657)	VF0156	Secretion system; Type IV secretion system
+VFG002108(gb|YP_095669)	VF0156	Secretion system; Type IV secretion system
+VFG002109(gb|YP_094434)	VF0156	Secretion system; Type IV secretion system
+VFG002110(gb|YP_096826)	VF0156	Secretion system; Type IV secretion system
+VFG002111(gb|YP_096808)	VF0156	Secretion system; Type IV secretion system
+VFG002112(gb|YP_094157)	VF0156	Secretion system; Type IV secretion system
+VFG002113(gb|YP_094288)	VF0156	Secretion system; Type IV secretion system
+VFG002114(gb|YP_096170)	VF0156	Secretion system; Type IV secretion system
+VFG002115(gb|YP_096169)	VF0156	Secretion system; Type IV secretion system
+VFG002116(gb|YP_096166)	VF0156	Secretion system; Type IV secretion system
+VFG002117(gb|YP_096516)	VF0156	Secretion system; Type IV secretion system
+VFG002118(gb|YP_096589)	VF0156	Secretion system; Type IV secretion system
+VFG002119(gb|YP_095384)	VF0156	Secretion system; Type IV secretion system
+VFG002120(gb|YP_096824)	VF0156	Secretion system; Type IV secretion system
+VFG002163(gb|YP_094491)	VF0156	Secretion system; Type IV secretion system
+VFG010850(gb|YP_094681)	VF0259	Toxin; Membrane-damaging; Pore-forming
+VFG010854(gb|YP_095355)	VF0291	Iron uptake; Siderophore
+VFG010858(gb|YP_095354)	VF0291	Iron uptake; Siderophore
+VFG044128(gb|YP_095356)	VF0291	Iron uptake; Siderophore
+VFG045330(gb|YP_095353)	VF0291	Iron uptake; Siderophore
+VFG045484(gb|YP_094226)	VF0156	Secretion system; Type IV secretion system
+VFG045485(gb|YP_094235)	VF0156	Secretion system; Type IV secretion system
+VFG045486(gb|YP_094249)	VF0156	Secretion system; Type IV secretion system
+VFG045487(gb|YP_094250)	VF0156	Secretion system; Type IV secretion system
+VFG045488(gb|YP_094264)	VF0156	Secretion system; Type IV secretion system
+VFG045489(gb|YP_094311)	VF0156	Secretion system; Type IV secretion system
+VFG045490(gb|YP_094314)	VF0156	Secretion system; Type IV secretion system
+VFG045491(gb|YP_094408)	VF0156	Secretion system; Type IV secretion system
+VFG045492(gb|YP_094419)	VF0156	Secretion system; Type IV secretion system
+VFG045493(gb|YP_094445)	VF0156	Secretion system; Type IV secretion system
+VFG045494(gb|YP_094449)	VF0156	Secretion system; Type IV secretion system
+VFG045495(gb|YP_094466)	VF0156	Secretion system; Type IV secretion system
+VFG045496(gb|YP_094483)	VF0156	Secretion system; Type IV secretion system
+VFG045497(gb|YP_094559)	VF0156	Secretion system; Type IV secretion system
+VFG045498(gb|YP_094752)	VF0156	Secretion system; Type IV secretion system
+VFG045499(gb|YP_094769)	VF0156	Secretion system; Type IV secretion system
+VFG045500(gb|YP_094832)	VF0156	Secretion system; Type IV secretion system
+VFG045501(gb|YP_094960)	VF0156	Secretion system; Type IV secretion system
+VFG045502(gb|YP_094978)	VF0156	Secretion system; Type IV secretion system
+VFG045503(gb|YP_095001)	VF0156	Secretion system; Type IV secretion system
+VFG045504(gb|YP_095002)	VF0156	Secretion system; Type IV secretion system
+VFG045505(gb|YP_095003)	VF0156	Secretion system; Type IV secretion system
+VFG045506(gb|YP_095116)	VF0156	Secretion system; Type IV secretion system
+VFG045507(gb|YP_095139)	VF0156	Secretion system; Type IV secretion system
+VFG045508(gb|YP_095141)	VF0156	Secretion system; Type IV secretion system
+VFG045509(gb|YP_095142)	VF0156	Secretion system; Type IV secretion system
+VFG045510(gb|YP_095144)	VF0156	Secretion system; Type IV secretion system
+VFG045511(gb|YP_095157)	VF0156	Secretion system; Type IV secretion system
+VFG045512(gb|YP_095162)	VF0156	Secretion system; Type IV secretion system
+VFG045513(gb|YP_095170)	VF0156	Secretion system; Type IV secretion system
+VFG045514(gb|YP_095180)	VF0156	Secretion system; Type IV secretion system
+VFG045515(gb|YP_095185)	VF0156	Secretion system; Type IV secretion system
+VFG045516(gb|YP_095187)	VF0156	Secretion system; Type IV secretion system
+VFG045517(gb|YP_095199)	VF0156	Secretion system; Type IV secretion system
+VFG045518(gb|YP_095204)	VF0156	Secretion system; Type IV secretion system
+VFG045519(gb|YP_095216)	VF0156	Secretion system; Type IV secretion system
+VFG045520(gb|YP_095342)	VF0156	Secretion system; Type IV secretion system
+VFG045521(gb|YP_095346)	VF0156	Secretion system; Type IV secretion system
+VFG045522(gb|YP_095347)	VF0156	Secretion system; Type IV secretion system
+VFG045523(gb|YP_095478)	VF0156	Secretion system; Type IV secretion system
+VFG045524(gb|YP_095482)	VF0156	Secretion system; Type IV secretion system
+VFG045525(gb|YP_095513)	VF0156	Secretion system; Type IV secretion system
+VFG045526(gb|YP_095518)	VF0156	Secretion system; Type IV secretion system
+VFG045527(gb|YP_095580)	VF0156	Secretion system; Type IV secretion system
+VFG045528(gb|YP_095607)	VF0156	Secretion system; Type IV secretion system
+VFG045529(gb|YP_095666)	VF0156	Secretion system; Type IV secretion system
+VFG045530(gb|YP_095681)	VF0156	Secretion system; Type IV secretion system
+VFG045531(gb|YP_095688)	VF0156	Secretion system; Type IV secretion system
+VFG045532(gb|YP_095693)	VF0156	Secretion system; Type IV secretion system
+VFG045533(gb|YP_095694)	VF0156	Secretion system; Type IV secretion system
+VFG045534(gb|YP_095697)	VF0156	Secretion system; Type IV secretion system
+VFG045535(gb|YP_095710)	VF0156	Secretion system; Type IV secretion system
+VFG045536(gb|YP_095711)	VF0156	Secretion system; Type IV secretion system
+VFG045537(gb|YP_095712)	VF0156	Secretion system; Type IV secretion system
+VFG045538(gb|YP_095714)	VF0156	Secretion system; Type IV secretion system
+VFG045539(gb|YP_095719)	VF0156	Secretion system; Type IV secretion system
+VFG045540(gb|YP_095743)	VF0156	Secretion system; Type IV secretion system
+VFG045541(gb|YP_095778)	VF0156	Secretion system; Type IV secretion system
+VFG045542(gb|YP_095802)	VF0156	Secretion system; Type IV secretion system
+VFG045543(gb|YP_095823)	VF0156	Secretion system; Type IV secretion system
+VFG045544(gb|YP_095824)	VF0156	Secretion system; Type IV secretion system
+VFG045545(gb|YP_095829)	VF0156	Secretion system; Type IV secretion system
+VFG045546(gb|YP_095862)	VF0156	Secretion system; Type IV secretion system
+VFG045547(gb|YP_095905)	VF0156	Secretion system; Type IV secretion system
+VFG045548(gb|YP_095924)	VF0156	Secretion system; Type IV secretion system
+VFG045549(gb|YP_095941)	VF0156	Secretion system; Type IV secretion system
+VFG045550(gb|YP_095975)	VF0156	Secretion system; Type IV secretion system
+VFG045551(gb|YP_095991)	VF0156	Secretion system; Type IV secretion system
+VFG045552(gb|YP_096002)	VF0156	Secretion system; Type IV secretion system
+VFG045553(gb|YP_096066)	VF0156	Secretion system; Type IV secretion system
+VFG045554(gb|YP_096144)	VF0156	Secretion system; Type IV secretion system
+VFG045555(gb|YP_096160)	VF0156	Secretion system; Type IV secretion system
+VFG045556(gb|YP_096161)	VF0156	Secretion system; Type IV secretion system
+VFG045557(gb|YP_096162)	VF0156	Secretion system; Type IV secretion system
+VFG045558(gb|YP_096211)	VF0156	Secretion system; Type IV secretion system
+VFG045559(gb|YP_096228)	VF0156	Secretion system; Type IV secretion system
+VFG045560(gb|YP_096235)	VF0156	Secretion system; Type IV secretion system
+VFG045561(gb|YP_096251)	VF0156	Secretion system; Type IV secretion system
+VFG045562(gb|YP_096283)	VF0156	Secretion system; Type IV secretion system
+VFG045563(gb|YP_096320)	VF0156	Secretion system; Type IV secretion system
+VFG045564(gb|YP_096353)	VF0156	Secretion system; Type IV secretion system
+VFG045565(gb|YP_096360)	VF0156	Secretion system; Type IV secretion system
+VFG045566(gb|YP_096368)	VF0156	Secretion system; Type IV secretion system
+VFG045567(gb|YP_096378)	VF0156	Secretion system; Type IV secretion system
+VFG045568(gb|YP_096380)	VF0156	Secretion system; Type IV secretion system
+VFG045569(gb|YP_096390)	VF0156	Secretion system; Type IV secretion system
+VFG045570(gb|YP_096424)	VF0156	Secretion system; Type IV secretion system
+VFG045571(gb|YP_096428)	VF0156	Secretion system; Type IV secretion system
+VFG045572(gb|YP_096432)	VF0156	Secretion system; Type IV secretion system
+VFG045573(gb|YP_096433)	VF0156	Secretion system; Type IV secretion system
+VFG045574(gb|YP_096442)	VF0156	Secretion system; Type IV secretion system
+VFG045575(gb|YP_096451)	VF0156	Secretion system; Type IV secretion system
+VFG045576(gb|YP_096452)	VF0156	Secretion system; Type IV secretion system
+VFG045577(gb|YP_096468)	VF0156	Secretion system; Type IV secretion system
+VFG045578(gb|YP_096505)	VF0156	Secretion system; Type IV secretion system
+VFG045579(gb|YP_096512)	VF0156	Secretion system; Type IV secretion system
+VFG045580(gb|YP_096533)	VF0156	Secretion system; Type IV secretion system
+VFG045581(gb|YP_096545)	VF0156	Secretion system; Type IV secretion system
+VFG045582(gb|YP_096546)	VF0156	Secretion system; Type IV secretion system
+VFG045583(gb|YP_096548)	VF0156	Secretion system; Type IV secretion system
+VFG045584(gb|YP_096553)	VF0156	Secretion system; Type IV secretion system
+VFG045585(gb|YP_096559)	VF0156	Secretion system; Type IV secretion system
+VFG045586(gb|YP_096562)	VF0156	Secretion system; Type IV secretion system
+VFG045587(gb|YP_096582)	VF0156	Secretion system; Type IV secretion system
+VFG045588(gb|YP_096593)	VF0156	Secretion system; Type IV secretion system
+VFG045589(gb|YP_096608)	VF0156	Secretion system; Type IV secretion system
+VFG045590(gb|YP_096633)	VF0156	Secretion system; Type IV secretion system
+VFG045591(gb|YP_096642)	VF0156	Secretion system; Type IV secretion system
+VFG045592(gb|YP_096643)	VF0156	Secretion system; Type IV secretion system
+VFG045593(gb|YP_096697)	VF0156	Secretion system; Type IV secretion system
+VFG045594(gb|YP_096699)	VF0156	Secretion system; Type IV secretion system
+VFG045595(gb|YP_096724)	VF0156	Secretion system; Type IV secretion system
+VFG045596(gb|YP_096748)	VF0156	Secretion system; Type IV secretion system
+VFG045597(gb|YP_096810)	VF0156	Secretion system; Type IV secretion system
+VFG045598(gb|YP_096823)	VF0156	Secretion system; Type IV secretion system
+VFG045599(gb|YP_096827)	VF0156	Secretion system; Type IV secretion system
+VFG045600(gb|YP_096839)	VF0156	Secretion system; Type IV secretion system
+VFG045601(gb|YP_096868)	VF0156	Secretion system; Type IV secretion system
+VFG045602(gb|YP_096873)	VF0156	Secretion system; Type IV secretion system
+VFG045603(gb|YP_096878)	VF0156	Secretion system; Type IV secretion system
+VFG045604(gb|YP_096879)	VF0156	Secretion system; Type IV secretion system
+VFG045605(gb|YP_096882)	VF0156	Secretion system; Type IV secretion system
+VFG045606(gb|YP_096905)	VF0156	Secretion system; Type IV secretion system
+VFG045607(gb|YP_096929)	VF0156	Secretion system; Type IV secretion system
+VFG045608(gb|YP_096967)	VF0156	Secretion system; Type IV secretion system
+VFG045609(gb|YP_096992)	VF0156	Secretion system; Type IV secretion system
+VFG000068(gb|NP_463735)	VF0066	Actin-based motility; Molecular Mimicry; Autophagy evasion
+VFG000069(gb|NP_463736)	VF0067	Exoenzyme; Membrane-damaging; Phospholipase
+VFG000070(gb|NP_464110)	VF0068	Invasion
+VFG000071(gb|NP_463734)	VF0065	Exoenzyme; Zinc metalloproteinase
+VFG000072(gb|NP_463731)	VF0062	Regulation
+VFG000073(gb|NP_463732)	VF0063	Exoenzyme; Membrane-damaging; Phospholipase
+VFG000074(gb|NP_463733)	VF0064	Toxin; Pore-forming; Thiol-activated cholesterol-binding cytolysin
+VFG000075(gb|NP_463962)	VF0069	Invasion
+VFG000076(gb|NP_463963)	VF0070	Invasion
+VFG000077(gb|NP_465991)	VF0074	Stress protein
+VFG000078(gb|NP_466081)	VF0071	Adherence
+VFG000079(gb|NP_463763)	VF0072	Stress protein
+VFG000080(gb|NP_464522)	VF0073	Stress protein
+VFG000674(gb|CAA70683)	VF0061	Exoenzyme; Membrane-damaging; Sphingomyelinase C
+VFG001089(gb|NP_464364)	VF0264	Metabolic adaptation
+VFG002157(gb|NP_465372)	VF0346	Invasion
+VFG002158(gb|NP_464456)	VF0347	Intracellular growth
+VFG002159(gb|NP_464601)	VF0348	Invasion
+VFG002160(gb|NP_465354)	VF0349	Adherence; Chaperone
+VFG002161(gb|NP_465369)	VF0351	Peptidase
+VFG002162(gb|NP_465591)	VF0350	Bile resistance
+VFG006717(gb|NP_465159)	VF0444	Adherence
+VFG006721(gb|NP_466343)	VF0445	Adherence
+VFG006768(gb|NP_463850)	VF0443	Invasion
+VFG032762(gb|NP_465191)	VF0446	Adherence
+VFG032821(gb|NP_463939)	VF0447	Adherence
+VFG032845(gb|NP_466072)	VF0448	Invasion
+VFG032878(gb|NP_465743)	VF0449	Intracellular growth; Protein folding
+VFG032910(gb|NP_465311)	VF0438	Immune modulator; Cell-to-cell spread
+VFG032936(gb|NP_464815)	VF0439	Immune modulator
+VFG032965(gb|NP_463967)	VF0440	Immune modulator
+VFG032992(gb|NP_464816)	VF0441	Immune evasion
+VFG033025(gb|NP_463944)	VF0442	Immune evasion
+VFG045331(gb|AHK25016)	VF0410	Toxin; Pore-forming
+VFG045332(gb|AHK25017)	VF0410	Toxin; Pore-forming
+VFG045333(gb|AHK25018)	VF0410	Toxin; Pore-forming
+VFG045334(gb|AHK25019)	VF0410	Toxin; Pore-forming
+VFG045335(gb|AHK25020)	VF0410	Toxin; Pore-forming
+VFG045336(gb|AHK25021)	VF0410	Toxin; Pore-forming
+VFG045337(gb|AHK25022)	VF0410	Toxin; Pore-forming
+VFG045338(gb|AHK25023)	VF0410	Toxin; Pore-forming
+VFG001381(gb|YP_177728)	VF0253	Metabolic adaptation
+VFG001383(gb|NP_214989)	VF0313	unknow
+VFG001386(gb|NP_215271)	VF0286	Regulation
+VFG001393(gb|NP_215861)	VF0308	Metabolic adaptation
+VFG001395(gb|NP_216327)	VF0289	Magnesium uptake
+VFG001397(gb|NP_216547)	VF0301	Heat-shock protein
+VFG001403(gb|NP_216899)	VF0299	Iron uptake; Siderophore
+VFG001406(gb|NP_217227)	VF0300	Regulation
+VFG001415(gb|NP_218004)	VF0307	Metabolic adaptation
+VFG001419(gb|NP_218321)	VF0311	Cell wall
+VFG001420(gb|NP_218327)	VF0312	unknow
+VFG001811(gb|YP_177694)	VF0311	Cell wall
+VFG001812(gb|NP_216402)	VF0311	Cell wall
+VFG001817(gb|NP_216900)	VF0299	Iron uptake; Siderophore
+VFG001818(gb|NP_216893)	VF0299	Iron uptake; Siderophore
+VFG001819(gb|NP_216894)	VF0299	Iron uptake; Siderophore
+VFG001820(gb|NP_216895)	VF0299	Iron uptake; Siderophore
+VFG001821(gb|NP_216896)	VF0299	Iron uptake; Siderophore
+VFG001822(gb|NP_216897)	VF0299	Iron uptake; Siderophore
+VFG001823(gb|NP_216898)	VF0299	Iron uptake; Siderophore
+VFG001826(gb|NP_217099)	VF0287	Regulation
+VFG002378(gb|YP_178023)	VF0315	Secretion system; Type VII secretion system
+VFG002379(gb|NP_218391)	VF0315	Secretion system; Type VII secretion system
+VFG002380(gb|NP_218385)	VF0315	Secretion system; Type VII secretion system
+VFG002381(gb|NP_218386)	VF0315	Secretion system; Type VII secretion system
+VFG002382(gb|NP_218387)	VF0315	Secretion system; Type VII secretion system
+VFG002383(gb|NP_218388)	VF0315	Secretion system; Type VII secretion system
+VFG002384(gb|YP_178021)	VF0315	Secretion system; Type VII secretion system
+VFG002385(gb|NP_218394)	VF0315	Secretion system; Type VII secretion system
+VFG002386(gb|NP_218132)	VF0315	Secretion system; Type VII secretion system
+VFG002387(gb|NP_218133)	VF0315	Secretion system; Type VII secretion system
+VFG002388(gb|NP_218398)	VF0315	Secretion system; Type VII secretion system
+VFG002389(gb|NP_218396)	VF0315	Secretion system; Type VII secretion system
+VFG002390(gb|NP_218399)	VF0315	Secretion system; Type VII secretion system
+VFG002391(gb|NP_218400)	VF0315	Secretion system; Type VII secretion system
+VFG002392(gb|NP_218131)	VF0315	Secretion system; Type VII secretion system
+VFG002393(gb|YP_177881)	VF0402	Secretion system; Type VII secretion system
+VFG002395(gb|NP_216300)	VF0402	Secretion system; Type VII secretion system
+VFG002396(gb|NP_216299)	VF0402	Secretion system; Type VII secretion system
+VFG002397(gb|NP_216298)	VF0402	Secretion system; Type VII secretion system
+VFG002398(gb|NP_216311)	VF0402	Secretion system; Type VII secretion system
+VFG002399(gb|NP_216310)	VF0402	Secretion system; Type VII secretion system
+VFG002400(gb|YP_177838)	VF0402	Secretion system; Type VII secretion system
+VFG002401(gb|NP_216314)	VF0402	Secretion system; Type VII secretion system
+VFG002402(gb|NP_216313)	VF0402	Secretion system; Type VII secretion system
+VFG002403(gb|NP_216312)	VF0402	Secretion system; Type VII secretion system
+VFG022019(gb|NP_214796)	VF0521	Secretion system; Type VII secretion system
+VFG022035(gb|NP_214797)	VF0521	Secretion system; Type VII secretion system
+VFG022051(gb|NP_214798)	VF0521	Secretion system; Type VII secretion system
+VFG022066(gb|YP_177710)	VF0521	Secretion system; Type VII secretion system
+VFG022082(gb|YP_177711)	VF0521	Secretion system; Type VII secretion system
+VFG022098(gb|NP_214802)	VF0521	Secretion system; Type VII secretion system
+VFG022114(gb|NP_214803)	VF0521	Secretion system; Type VII secretion system
+VFG022130(gb|NP_214804)	VF0521	Secretion system; Type VII secretion system
+VFG022146(gb|NP_214805)	VF0521	Secretion system; Type VII secretion system
+VFG022162(gb|NP_214806)	VF0521	Secretion system; Type VII secretion system
+VFG022340(gb|NP_214801)	VF0521	Secretion system; Type VII secretion system
+VFG002029(gb|NP_109998)	VF0330	Adherence
+VFG002030(gb|NP_109830)	VF0330	Adherence
+VFG002031(gb|NP_109997)	VF0330	Adherence
+VFG002032(gb|NP_110256)	VF0330	Adherence
+VFG002033(gb|NP_109829)	VF0330	Adherence
+VFG002034(gb|NP_110140)	VF0330	Adherence
+VFG002035(gb|NP_110135)	VF0330	Adherence
+VFG002036(gb|NP_110141)	VF0330	Adherence
+VFG016457(gb|YP_115895)	VF0426	Adherence
+VFG016463(gb|YP_115696)	VF0426	Adherence
+VFG016466(gb|YP_115695)	VF0426	Adherence
+VFG016472(gb|YP_116003)	VF0426	Adherence
+VFG043500(gb|YP_115784)	VF0426	Adherence
+VFG043671(gb|NP_110060)	VF0541	Toxin
+VFG046118(gb|YP_115621.1)	VF0426	Adherence
+VFG046119(gb|YP_115896.1)	VF0426	Adherence
+VFG046120(gb|YP_116191.1)	VF0426	Adherence
+VFG000221(gb|NP_273084)	VF0075	Adherence; Phase variation
+VFG000232(gb|NP_273117)	VF0075	Adherence; Phase variation
+VFG000233(gb|NP_273378)	VF0075	Adherence; Phase variation
+VFG000234(gb|NP_273381)	VF0075	Adherence; Phase variation
+VFG000235(gb|NP_273382)	VF0075	Adherence; Phase variation
+VFG000240(gb|NP_274087)	VF0077	Invasion; Phase variation; Beta barrel protein
+VFG000249(gb|NP_273676)	VF0272	Iron uptake; ABC transporter
+VFG000250(gb|NP_275030)	VF0081	Invasion; Phagosome maturation
+VFG000251(gb|NP_273131)	VF0079	Antiphagocytosis
+VFG000252(gb|NP_273132)	VF0079	Antiphagocytosis
+VFG000253(gb|NP_273133)	VF0079	Antiphagocytosis
+VFG000254(gb|NP_273134)	VF0079	Antiphagocytosis
+VFG000255(gb|NP_273135)	VF0079	Antiphagocytosis
+VFG000256(gb|NP_273136)	VF0079	Antiphagocytosis
+VFG000257(gb|NP_273137)	VF0079	Antiphagocytosis
+VFG000258(gb|NP_273138)	VF0079	Antiphagocytosis
+VFG000259(gb|NP_273145)	VF0079	Antiphagocytosis
+VFG000260(gb|NP_273146)	VF0079	Antiphagocytosis
+VFG000261(gb|NP_273742)	VF0080	IgA1 Protease; Autotransporter; Serine protease
+VFG000262(gb|NP_273508)	VF0046	Iron uptake; Two-component TonB-dependent receptors
+VFG000263(gb|NP_273507)	VF0046	Iron uptake; Two-component TonB-dependent receptors
+VFG000264(gb|NP_274547)	VF0047	Iron uptake; Two-component TonB-dependent receptors
+VFG000265(gb|NP_274548)	VF0047	Iron uptake; Two-component TonB-dependent receptors
+VFG000266(gb|NP_274673)	VF0048	Iron uptake; Heme uptake; Phase variation
+VFG000267(gb|NP_283298)	VF0049	Iron uptake; Heme uptake; Phase variation; Two-component TonB-dependent receptors
+VFG000268(gb|NP_283297)	VF0049	Iron uptake; Heme uptake; Phase variation; Two-component TonB-dependent receptors
+VFG001205(gb|NP_273677)	VF0272	Iron uptake; ABC transporter
+VFG001206(gb|NP_273675)	VF0272	Iron uptake; ABC transporter
+VFG036938(gb|NP_273367)	VF0450	Efflux pump
+VFG036956(gb|NP_273368)	VF0450	Efflux pump
+VFG036974(gb|NP_274719)	VF0451	Efflux pump
+VFG036992(gb|NP_274718)	VF0451	Efflux pump
+VFG037010(gb|NP_274717)	VF0451	Efflux pump
+VFG037028(gb|NP_273273)	VF0454	Stress protein
+VFG037046(gb|NP_273632)	VF0455	Stress protein
+VFG037064(gb|NP_273631)	VF0455	Stress protein
+VFG037082(gb|NP_273630)	VF0455	Stress protein
+VFG037100(gb|NP_273110)	VF0456	Stress protein
+VFG037118(gb|NP_273782)	VF0457	Stress protein
+VFG037136(gb|NP_274866)	VF0452	Immune modulator
+VFG037153(gb|NP_273705)	VF0453	Immune modulator
+VFG000111(gb|NP_253215)	VF0082	Adherence; Twitching motility
+VFG000112(gb|NP_253216)	VF0082	Adherence; Twitching motility
+VFG000113(gb|NP_253217)	VF0082	Adherence; Twitching motility
+VFG000114(gb|NP_253218)	VF0082	Adherence; Twitching motility
+VFG000115(gb|NP_249839)	VF0086	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type; Molecular mimicry
+VFG000116(gb|NP_254170)	VF0091	Antiphagocytosis; Serum resistance
+VFG000117(gb|NP_253940)	VF0091	Antiphagocytosis; Serum resistance
+VFG000118(gb|NP_253942)	VF0091	Antiphagocytosis; Serum resistance
+VFG000119(gb|NP_253948)	VF0091	Antiphagocytosis; Serum resistance
+VFG000120(gb|NP_253949)	VF0091	Antiphagocytosis; Serum resistance
+VFG000121(gb|NP_249453)	VF0091	Antiphagocytosis; Serum resistance
+VFG000122(gb|NP_252230)	VF0091	Antiphagocytosis; Serum resistance
+VFG000123(gb|NP_252231)	VF0091	Antiphagocytosis; Serum resistance
+VFG000124(gb|NP_252232)	VF0091	Antiphagocytosis; Serum resistance
+VFG000125(gb|NP_252233)	VF0091	Antiphagocytosis; Serum resistance
+VFG000126(gb|NP_252234)	VF0091	Antiphagocytosis; Serum resistance
+VFG000127(gb|NP_252235)	VF0091	Antiphagocytosis; Serum resistance
+VFG000128(gb|NP_252236)	VF0091	Antiphagocytosis; Serum resistance
+VFG000129(gb|NP_252237)	VF0091	Antiphagocytosis; Serum resistance
+VFG000130(gb|NP_252238)	VF0091	Antiphagocytosis; Serum resistance
+VFG000131(gb|NP_252239)	VF0091	Antiphagocytosis; Serum resistance
+VFG000132(gb|NP_252240)	VF0091	Antiphagocytosis; Serum resistance
+VFG000133(gb|NP_252241)	VF0091	Antiphagocytosis; Serum resistance
+VFG000134(gb|NP_249454)	VF0091	Antiphagocytosis; Serum resistance
+VFG000135(gb|NP_249455)	VF0091	Antiphagocytosis; Serum resistance
+VFG000136(gb|NP_249456)	VF0091	Antiphagocytosis; Serum resistance
+VFG000137(gb|NP_251850)	VF0085	Adherence; Endotoxin
+VFG000138(gb|NP_251844)	VF0085	Adherence; Endotoxin
+VFG000139(gb|NP_253697)	VF0085	Adherence; Endotoxin
+VFG000140(gb|NP_253696)	VF0085	Adherence; Endotoxin
+VFG000141(gb|NP_253675)	VF0085	Adherence; Endotoxin
+VFG000142(gb|NP_253698)	VF0085	Adherence; Endotoxin
+VFG000143(gb|NP_253699)	VF0085	Adherence; Endotoxin
+VFG000144(gb|NP_249940)	VF0090	Protease
+VFG000145(gb|NP_250562)	VF0088	Protease; Serine protease
+VFG000146(gb|NP_252413)	VF0087	Protease; Zinc metalloproteinase
+VFG000147(gb|NP_252530)	VF0096	Toxin; Type III translocated protein; ADP-ribosyltransferase and GTPase activating
+VFG000148(gb|NP_248734)	VF0097	Toxin; Type III translocated protein; Intracellular toxin; ADP-ribosyltransferase and GTPase activating
+VFG000149(gb|AAC16023)	VF0098	Toxin; Type III translocated protein; Phospholipase
+VFG000150(gb|NP_250881)	VF0099	Toxin; Type III translocated protein; Intracellular toxin; Adenylate cyclase
+VFG000153(gb|NP_252166)	VF0093	Regulation; Quorum sensing system
+VFG000154(gb|NP_250123)	VF0093	Regulation; Quorum sensing system
+VFG000155(gb|NP_252168)	VF0089	Biosurfactant
+VFG000156(gb|NP_252169)	VF0089	Biosurfactant
+VFG000157(gb|NP_249535)	VF0092	Toxin; Membrane-damaging; Phospholipase
+VFG000159(gb|NP_251076)	VF0094	Iron uptake; Siderophore; Pigment
+VFG000160(gb|NP_251087)	VF0094	Iron uptake; Siderophore; Pigment
+VFG000161(gb|NP_251089)	VF0094	Iron uptake; Siderophore; Pigment
+VFG000162(gb|NP_251116)	VF0094	Iron uptake; Siderophore; Pigment
+VFG000163(gb|NP_251088)	VF0094	Iron uptake; Siderophore; Pigment
+VFG000164(gb|NP_252911)	VF0095	Iron uptake; Siderophore
+VFG000165(gb|NP_252915)	VF0095	Iron uptake; Siderophore
+VFG000166(gb|NP_252916)	VF0095	Iron uptake; Siderophore
+VFG000167(gb|NP_252917)	VF0095	Iron uptake; Siderophore
+VFG000168(gb|NP_252918)	VF0095	Iron uptake; Siderophore
+VFG000169(gb|NP_252919)	VF0095	Iron uptake; Siderophore
+VFG000170(gb|NP_252920)	VF0095	Iron uptake; Siderophore
+VFG000171(gb|NP_252921)	VF0095	Iron uptake; Siderophore
+VFG000172(gb|NP_252898)	VF0100	Pigment; Antimicrobial activity
+VFG000173(gb|NP_252907)	VF0100	Pigment; Antimicrobial activity
+VFG000174(gb|NP_251785)	VF0084	Secretion system; Type II secretion system
+VFG000175(gb|NP_251786)	VF0084	Secretion system; Type II secretion system
+VFG000176(gb|NP_251787)	VF0084	Secretion system; Type II secretion system
+VFG000177(gb|NP_251788)	VF0084	Secretion system; Type II secretion system
+VFG000178(gb|NP_251789)	VF0084	Secretion system; Type II secretion system
+VFG000179(gb|NP_251790)	VF0084	Secretion system; Type II secretion system
+VFG000180(gb|NP_251791)	VF0084	Secretion system; Type II secretion system
+VFG000181(gb|NP_251792)	VF0084	Secretion system; Type II secretion system
+VFG000182(gb|NP_251793)	VF0084	Secretion system; Type II secretion system
+VFG000183(gb|NP_251794)	VF0084	Secretion system; Type II secretion system
+VFG000184(gb|NP_251795)	VF0084	Secretion system; Type II secretion system
+VFG000185(gb|NP_250381)	VF0083	Secretion system; Type III secretion system
+VFG000186(gb|NP_250382)	VF0083	Secretion system; Type III secretion system
+VFG000187(gb|NP_250383)	VF0083	Secretion system; Type III secretion system
+VFG000188(gb|NP_250384)	VF0083	Secretion system; Type III secretion system
+VFG000189(gb|NP_250385)	VF0083	Secretion system; Type III secretion system
+VFG000190(gb|NP_250386)	VF0083	Secretion system; Type III secretion system
+VFG000191(gb|NP_250387)	VF0083	Secretion system; Type III secretion system
+VFG000192(gb|NP_250388)	VF0083	Secretion system; Type III secretion system
+VFG000193(gb|NP_250389)	VF0083	Secretion system; Type III secretion system
+VFG000194(gb|NP_250390)	VF0083	Secretion system; Type III secretion system
+VFG000195(gb|NP_250391)	VF0083	Secretion system; Type III secretion system
+VFG000196(gb|NP_250392)	VF0083	Secretion system; Type III secretion system
+VFG000197(gb|NP_250393)	VF0083	Secretion system; Type III secretion system
+VFG000198(gb|NP_250394)	VF0083	Secretion system; Type III secretion system
+VFG000199(gb|NP_250395)	VF0083	Secretion system; Type III secretion system
+VFG000200(gb|NP_250396)	VF0083	Secretion system; Type III secretion system
+VFG000201(gb|NP_250397)	VF0083	Secretion system; Type III secretion system
+VFG000202(gb|NP_250398)	VF0083	Secretion system; Type III secretion system
+VFG000203(gb|NP_250399)	VF0083	Secretion system; Type III secretion system
+VFG000204(gb|NP_250400)	VF0083	Secretion system; Type III secretion system
+VFG000205(gb|NP_250401)	VF0083	Secretion system; Type III secretion system
+VFG000206(gb|NP_250402)	VF0083	Secretion system; Type III secretion system
+VFG000207(gb|NP_250403)	VF0083	Secretion system; Type III secretion system
+VFG000208(gb|NP_250404)	VF0083	Secretion system; Type III secretion system
+VFG000209(gb|NP_250405)	VF0083	Secretion system; Type III secretion system
+VFG000210(gb|NP_250406)	VF0083	Secretion system; Type III secretion system
+VFG000211(gb|NP_250407)	VF0083	Secretion system; Type III secretion system
+VFG000212(gb|NP_250408)	VF0083	Secretion system; Type III secretion system
+VFG000213(gb|NP_250409)	VF0083	Secretion system; Type III secretion system
+VFG000214(gb|NP_250410)	VF0083	Secretion system; Type III secretion system
+VFG000215(gb|NP_250411)	VF0083	Secretion system; Type III secretion system
+VFG000216(gb|NP_250412)	VF0083	Secretion system; Type III secretion system
+VFG000217(gb|NP_250413)	VF0083	Secretion system; Type III secretion system
+VFG000218(gb|NP_250414)	VF0083	Secretion system; Type III secretion system
+VFG000219(gb|NP_250415)	VF0083	Secretion system; Type III secretion system
+VFG000220(gb|NP_250416)	VF0083	Secretion system; Type III secretion system
+VFG001207(gb|NP_253241)	VF0082	Adherence; Twitching motility
+VFG001208(gb|NP_253242)	VF0082	Adherence; Twitching motility
+VFG001209(gb|NP_253243)	VF0082	Adherence; Twitching motility
+VFG001210(gb|NP_253244)	VF0082	Adherence; Twitching motility
+VFG001211(gb|NP_253245)	VF0082	Adherence; Twitching motility
+VFG001212(gb|NP_253246)	VF0082	Adherence; Twitching motility
+VFG001213(gb|NP_253236)	VF0082	Adherence; Twitching motility
+VFG001214(gb|NP_253237)	VF0082	Adherence; Twitching motility
+VFG001215(gb|NP_253239)	VF0082	Adherence; Twitching motility
+VFG001216(gb|NP_253240)	VF0082	Adherence; Twitching motility
+VFG001217(gb|NP_252494)	VF0082	Adherence; Twitching motility
+VFG001218(gb|NP_253727)	VF0082	Adherence; Twitching motility
+VFG001219(gb|NP_253728)	VF0082	Adherence; Twitching motility
+VFG001220(gb|NP_253729)	VF0082	Adherence; Twitching motility
+VFG001221(gb|NP_253730)	VF0082	Adherence; Twitching motility
+VFG001222(gb|NP_253731)	VF0082	Adherence; Twitching motility
+VFG001223(gb|NP_249086)	VF0082	Adherence; Twitching motility
+VFG001224(gb|NP_249087)	VF0082	Adherence; Twitching motility
+VFG001225(gb|NP_249099)	VF0082	Adherence; Twitching motility
+VFG001226(gb|NP_249100)	VF0082	Adherence; Twitching motility
+VFG001227(gb|NP_249101)	VF0082	Adherence; Twitching motility
+VFG001228(gb|NP_249102)	VF0082	Adherence; Twitching motility
+VFG001229(gb|NP_249103)	VF0082	Adherence; Twitching motility
+VFG001230(gb|NP_251805)	VF0082	Adherence; Twitching motility
+VFG001231(gb|NP_249104)	VF0082	Adherence; Twitching motility
+VFG001232(gb|NP_249105)	VF0082	Adherence; Twitching motility
+VFG001233(gb|NP_249106)	VF0082	Adherence; Twitching motility
+VFG001234(gb|NP_249107)	VF0082	Adherence; Twitching motility
+VFG001235(gb|NP_249108)	VF0082	Adherence; Twitching motility
+VFG001236(gb|NP_249769)	VF0273	Adherence; Motility
+VFG001237(gb|NP_249770)	VF0273	Adherence; Motility
+VFG001238(gb|NP_249771)	VF0273	Adherence; Motility
+VFG001239(gb|NP_249772)	VF0273	Adherence; Motility
+VFG001240(gb|NP_249773)	VF0273	Adherence; Motility
+VFG001241(gb|NP_249774)	VF0273	Adherence; Motility
+VFG001242(gb|NP_249775)	VF0273	Adherence; Motility
+VFG001243(gb|NP_249776)	VF0273	Adherence; Motility
+VFG001244(gb|NP_249777)	VF0273	Adherence; Motility
+VFG001245(gb|NP_249778)	VF0273	Adherence; Motility
+VFG001246(gb|NP_249783)	VF0273	Adherence; Motility
+VFG001247(gb|NP_249785)	VF0273	Adherence; Motility
+VFG001248(gb|NP_249788)	VF0273	Adherence; Motility
+VFG001249(gb|NP_249790)	VF0273	Adherence; Motility
+VFG001250(gb|NP_249791)	VF0273	Adherence; Motility
+VFG001251(gb|NP_249792)	VF0273	Adherence; Motility
+VFG001252(gb|NP_249793)	VF0273	Adherence; Motility
+VFG001253(gb|NP_249794)	VF0273	Adherence; Motility
+VFG001254(gb|NP_249795)	VF0273	Adherence; Motility
+VFG001255(gb|NP_249796)	VF0273	Adherence; Motility
+VFG001256(gb|NP_250134)	VF0273	Adherence; Motility
+VFG001257(gb|NP_250135)	VF0273	Adherence; Motility
+VFG001258(gb|NP_250136)	VF0273	Adherence; Motility
+VFG001259(gb|NP_250137)	VF0273	Adherence; Motility
+VFG001260(gb|NP_250138)	VF0273	Adherence; Motility
+VFG001261(gb|NP_250139)	VF0273	Adherence; Motility
+VFG001262(gb|NP_250140)	VF0273	Adherence; Motility
+VFG001263(gb|NP_250143)	VF0273	Adherence; Motility
+VFG001264(gb|NP_250144)	VF0273	Adherence; Motility
+VFG001265(gb|NP_250145)	VF0273	Adherence; Motility
+VFG001266(gb|NP_252912)	VF0095	Iron uptake; Siderophore
+VFG001267(gb|NP_252913)	VF0095	Iron uptake; Siderophore
+VFG001268(gb|NP_252914)	VF0095	Iron uptake; Siderophore
+VFG002057(gb|NP_248761)	VF0334	Secretion system; Type VI secretion system
+VFG002058(gb|NP_248762)	VF0334	Secretion system; Type VI secretion system
+VFG002059(gb|NP_248763)	VF0334	Secretion system; Type VI secretion system
+VFG002060(gb|NP_248764)	VF0334	Secretion system; Type VI secretion system
+VFG002061(gb|NP_248765)	VF0334	Secretion system; Type VI secretion system
+VFG002062(gb|NP_248766)	VF0334	Secretion system; Type VI secretion system
+VFG002063(gb|NP_248767)	VF0334	Secretion system; Type VI secretion system
+VFG002064(gb|NP_248768)	VF0334	Secretion system; Type VI secretion system
+VFG002065(gb|NP_248769)	VF0334	Secretion system; Type VI secretion system
+VFG002066(gb|NP_248770)	VF0334	Secretion system; Type VI secretion system
+VFG002067(gb|NP_248771)	VF0334	Secretion system; Type VI secretion system
+VFG002068(gb|NP_248772)	VF0334	Secretion system; Type VI secretion system
+VFG002069(gb|NP_248773)	VF0334	Secretion system; Type VI secretion system
+VFG002070(gb|NP_248774)	VF0334	Secretion system; Type VI secretion system
+VFG002071(gb|NP_248775)	VF0334	Secretion system; Type VI secretion system
+VFG002072(gb|NP_248776)	VF0334	Secretion system; Type VI secretion system
+VFG002073(gb|NP_248777)	VF0334	Secretion system; Type VI secretion system
+VFG002074(gb|NP_248778)	VF0334	Secretion system; Type VI secretion system
+VFG002075(gb|NP_248779)	VF0334	Secretion system; Type VI secretion system
+VFG002076(gb|NP_248780)	VF0334	Secretion system; Type VI secretion system
+VFG002077(gb|NP_248781)	VF0334	Secretion system; Type VI secretion system
+VFG040466(gb|YP_001495347)	VF0492	Adherence; Autotransporter
+VFG040815(gb|NP_360546)	VF0490	Actin-based motility
+VFG000423(gb|NP_458730)	VF0101	Immune evasion
+VFG000424(gb|NP_458731)	VF0101	Immune evasion
+VFG000425(gb|NP_458732)	VF0101	Immune evasion
+VFG000426(gb|NP_458733)	VF0101	Immune evasion
+VFG000427(gb|NP_458734)	VF0101	Immune evasion
+VFG000428(gb|NP_458735)	VF0101	Immune evasion
+VFG000429(gb|NP_458738)	VF0101	Immune evasion
+VFG000430(gb|NP_458739)	VF0101	Immune evasion
+VFG000431(gb|NP_458740)	VF0101	Immune evasion
+VFG000433(gb|NP_490508)	VF0104	Adherence; Fimbrial
+VFG000434(gb|NP_490509)	VF0104	Adherence; Fimbrial
+VFG000435(gb|NP_490510)	VF0104	Adherence; Fimbrial
+VFG000436(gb|NP_490511)	VF0104	Adherence; Fimbrial
+VFG000438(gb|NP_490528)	VF0107	Toxin; Intracellular toxin; ADP-ribosyltransferase
+VFG000439(gb|NP_490529)	VF0107	Toxin; Intracellular toxin; ADP-ribosyltransferase
+VFG000441(gb|NP_490531)	VF0107	Toxin; Intracellular toxin; ADP-ribosyltransferase
+VFG000442(gb|NP_490501)	VF0108	Serum resistance; Adherence; Invasion
+VFG000444(gb|NP_459539)	VF0102	Adherence; Fimbrial
+VFG000445(gb|NP_459540)	VF0102	Adherence; Fimbrial
+VFG000446(gb|NP_459541)	VF0102	Adherence; Fimbrial
+VFG000447(gb|NP_459542)	VF0102	Adherence; Fimbrial
+VFG000448(gb|NP_459543)	VF0102	Adherence; Fimbrial
+VFG000452(gb|NP_462537)	VF0105	Adherence; Fimbrial
+VFG000453(gb|NP_462538)	VF0105	Adherence; Fimbrial
+VFG000454(gb|NP_462539)	VF0105	Adherence; Fimbrial
+VFG000455(gb|NP_462540)	VF0105	Adherence; Fimbrial
+VFG000456(gb|NP_462541)	VF0105	Adherence; Fimbrial
+VFG000457(gb|NP_460114)	VF0103	Adherence; Fimbrial
+VFG000458(gb|NP_460115)	VF0103	Adherence; Fimbrial
+VFG000459(gb|NP_460116)	VF0103	Adherence; Fimbrial
+VFG000460(gb|NP_460112)	VF0103	Adherence; Fimbrial
+VFG000461(gb|NP_460111)	VF0103	Adherence; Fimbrial
+VFG000462(gb|NP_460110)	VF0103	Adherence; Fimbrial
+VFG000463(gb|NP_460019)	VF0109	Stress protein
+VFG000464(gb|NP_461011)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000465(gb|NP_460064)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000466(gb|NP_461866)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000467(gb|NP_460811)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000468(gb|NP_461184)	VF0321	Secretion system; Type III secretion system
+VFG000469(gb|NP_459778)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000470(gb|NP_460194)	VF0321	Secretion system; Type III secretion system
+VFG000471(gb|NP_460590)	VF0321	Secretion system; Type III secretion system
+VFG000476(gb|AAG03023)	VF0110	Antivirulence
+VFG000494(gb|NP_460358)	VF0321	Secretion system; Type III secretion system
+VFG000495(gb|NP_460359)	VF0321	Secretion system; Type III secretion system
+VFG000496(gb|NP_460360)	VF0321	Secretion system; Type III secretion system
+VFG000497(gb|NP_460361)	VF0321	Secretion system; Type III secretion system
+VFG000498(gb|NP_460362)	VF0321	Secretion system; Type III secretion system
+VFG000499(gb|NP_460363)	VF0321	Secretion system; Type III secretion system
+VFG000501(gb|NP_460365)	VF0321	Secretion system; Type III secretion system
+VFG000502(gb|NP_460366)	VF0321	Secretion system; Type III secretion system
+VFG000503(gb|NP_460367)	VF0321	Secretion system; Type III secretion system
+VFG000505(gb|NP_460369)	VF0321	Secretion system; Type III secretion system
+VFG000506(gb|NP_460370)	VF0321	Secretion system; Type III secretion system
+VFG000507(gb|NP_460371)	VF0321	Secretion system; Type III secretion system
+VFG000508(gb|NP_460372)	VF0321	Secretion system; Type III secretion system
+VFG000509(gb|NP_460373)	VF0321	Secretion system; Type III secretion system
+VFG000510(gb|NP_460374)	VF0321	Secretion system; Type III secretion system
+VFG000511(gb|NP_460376)	VF0321	Secretion system; Type III secretion system
+VFG000512(gb|NP_460377)	VF0321	Secretion system; Type III secretion system
+VFG000513(gb|NP_460378)	VF0321	Secretion system; Type III secretion system
+VFG000514(gb|NP_460379)	VF0321	Secretion system; Type III secretion system
+VFG000515(gb|NP_460380)	VF0321	Secretion system; Type III secretion system
+VFG000516(gb|NP_460381)	VF0321	Secretion system; Type III secretion system
+VFG000517(gb|NP_460382)	VF0321	Secretion system; Type III secretion system
+VFG000518(gb|NP_460383)	VF0321	Secretion system; Type III secretion system
+VFG000519(gb|NP_460384)	VF0321	Secretion system; Type III secretion system
+VFG000520(gb|NP_460385)	VF0321	Secretion system; Type III secretion system
+VFG000521(gb|NP_460386)	VF0321	Secretion system; Type III secretion system
+VFG000522(gb|NP_460387)	VF0321	Secretion system; Type III secretion system
+VFG000529(gb|NP_461786)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000532(gb|NP_461790)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000533(gb|NP_461792)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000534(gb|NP_461793)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000535(gb|NP_461794)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000536(gb|NP_461795)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000540(gb|NP_461799)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000541(gb|NP_461800)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000543(gb|NP_461803)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000544(gb|NP_461804)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000545(gb|NP_461805)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000546(gb|NP_461806)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000547(gb|NP_461807)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000548(gb|NP_461808)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000549(gb|NP_461809)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000550(gb|NP_461810)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000551(gb|NP_461811)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000552(gb|NP_461812)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000553(gb|NP_461813)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000554(gb|NP_461814)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000555(gb|NP_461815)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000556(gb|NP_461816)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000557(gb|NP_461817)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000558(gb|NP_461818)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000559(gb|NP_461819)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000560(gb|NP_461820)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000561(gb|NP_461821)	VF0116	Secretion system; Type III secretion system; Invasion
+VFG000574(gb|NP_462662)	VF0106	Magnesium uptake
+VFG000575(gb|NP_462663)	VF0106	Magnesium uptake
+VFG002302(gb|NP_461708)	VF0395	Resistance to antimicrobial peptides
+VFG002304(gb|NP_462656)	VF0397	Adherence; Nonfimbrial; Autotransporter
+VFG002305(gb|NP_461448)	VF0398	Adherence; Nonfimbrial; Autotransporter
+VFG002306(gb|NP_461449)	VF0399	Adherence; Nonfimbrial
+VFG002307(gb|NP_461452)	VF0400	Adherence; Nonfimbrial
+VFG020318(gb|NP_456275)	VF0407	Toxin; Intracellular toxin; DNaseI
+VFG000615(gb|NP_709454)	VF0123	Iron uptake; Siderophore
+VFG000616(gb|NP_709455)	VF0123	Iron uptake; Siderophore
+VFG000617(gb|NP_709456)	VF0123	Iron uptake; Siderophore
+VFG000618(gb|NP_709457)	VF0123	Iron uptake; Siderophore
+VFG000619(gb|NP_709458)	VF0123	Iron uptake; Siderophore
+VFG000630(gb|NP_708742)	VF0119	Protease; Serine protease; Autotransporter
+VFG000635(gb|NP_708747)	VF0120	Protease; Serine protease; Autotransporter
+VFG000636(gb|YP_177613)	VF0125	Toxin; A-B type; Enterotoxin
+VFG000637(gb|YP_177614)	VF0125	Toxin; A-B type; Enterotoxin
+VFG000667(gb|NP_858315)	VF0121	Actin-based motility; Autotransporter
+VFG000669(gb|NP_706257)	VF0124	Endotoxin
+VFG000670(gb|NP_706258)	VF0124	Endotoxin
+VFG000671(gb|NP_706259)	VF0124	Endotoxin
+VFG000984(gb|NP_858258)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000985(gb|NP_858259)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000986(gb|NP_858260)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000987(gb|NP_858261)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000988(gb|NP_858262)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000989(gb|NP_858263)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000990(gb|NP_858264)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000991(gb|NP_858265)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000992(gb|NP_858266)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000993(gb|NP_858267)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000994(gb|NP_858268)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000995(gb|NP_858269)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000996(gb|NP_858270)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000997(gb|NP_858271)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000998(gb|NP_858272)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG000999(gb|NP_858273)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001000(gb|NP_858274)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001001(gb|NP_858275)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001002(gb|NP_858276)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001003(gb|NP_858277)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001004(gb|NP_858278)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001005(gb|NP_858279)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001006(gb|NP_858280)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001007(gb|NP_858281)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001008(gb|NP_858282)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001009(gb|NP_858283)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001010(gb|NP_858284)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001011(gb|NP_858285)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001012(gb|NP_858286)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001013(gb|NP_858287)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001014(gb|NP_858288)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001015(gb|NP_858289)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001016(gb|NP_858314)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG001017(gb|NP_858404)	VF0122	Protease; Serine protease; Autotransporter
+VFG001827(gb|YP_406304)	VF0258	Toxin; Enterotoxin
+VFG001828(gb|YP_403025)	VF0117	Toxin; Intracellular toxin; N-glycosidase; A-B5 type
+VFG001829(gb|YP_403026)	VF0117	Toxin; Intracellular toxin; N-glycosidase; A-B5 type
+VFG002041(gb|NP_858211)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG002042(gb|NP_858359)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG002043(gb|NP_858360)	VF0118	Secretion system; Type III secretion system; Invasion
+VFG002046(gb|YP_404599)	VF0333	Secretion system; Type II secretion system
+VFG002047(gb|YP_404600)	VF0333	Secretion system; Type II secretion system
+VFG002048(gb|YP_404601)	VF0333	Secretion system; Type II secretion system
+VFG002049(gb|YP_404602)	VF0333	Secretion system; Type II secretion system
+VFG002050(gb|YP_404603)	VF0333	Secretion system; Type II secretion system
+VFG002051(gb|YP_404604)	VF0333	Secretion system; Type II secretion system
+VFG002052(gb|YP_404605)	VF0333	Secretion system; Type II secretion system
+VFG002053(gb|YP_404606)	VF0333	Secretion system; Type II secretion system
+VFG002054(gb|YP_404607)	VF0333	Secretion system; Type II secretion system
+VFG002055(gb|YP_404608)	VF0333	Secretion system; Type II secretion system
+VFG002056(gb|YP_404609)	VF0333	Secretion system; Type II secretion system
+VFG013063(gb|YP_405020)	VF0256	Iron uptake; Heme uptake
+VFG013064(gb|YP_405019)	VF0256	Iron uptake; Heme uptake
+VFG013065(gb|YP_405017)	VF0256	Iron uptake; Heme uptake
+VFG013067(gb|YP_405016)	VF0256	Iron uptake; Heme uptake
+VFG013068(gb|YP_405015)	VF0256	Iron uptake; Heme uptake
+VFG013069(gb|YP_405014)	VF0256	Iron uptake; Heme uptake
+VFG013070(gb|YP_405013)	VF0256	Iron uptake; Heme uptake
+VFG001273(gb|NP_647159)	VF0011	Toxin; Membrane-damaging; Pore-forming; Channel-forming involving beta-sheet-containing toxin (beta-barrel); Biocomponent leukocidin
+VFG001274(gb|NP_647160)	VF0011	Toxin; Membrane-damaging; Pore-forming; Channel-forming involving beta-sheet-containing toxin (beta-barrel); Biocomponent leukocidin
+VFG001275(gb|NP_647161)	VF0011	Toxin; Membrane-damaging; Pore-forming; Channel-forming involving beta-sheet-containing toxin (beta-barrel); Biocomponent leukocidin
+VFG001276(gb|NP_646195)	VF0018	Toxin; Membrane-damaging; Pore-forming; Channel-forming involving beta-sheet-containing toxin (beta-barrel); Biocomponent leukocidin
+VFG001277(gb|NP_646196)	VF0018	Toxin; Membrane-damaging; Pore-forming; Channel-forming involving beta-sheet-containing toxin (beta-barrel); Biocomponent leukocidin
+VFG001278(gb|NP_646186)	VF0008	Adherence
+VFG001279(gb|NP_645333)	VF0019	Adherence; MSCRAMMs
+VFG001280(gb|NP_645334)	VF0019	Adherence; MSCRAMMs
+VFG001281(gb|NP_645335)	VF0019	Adherence; MSCRAMMs
+VFG001282(gb|NP_647237)	VF0010	Adherence
+VFG001283(gb|NP_647238)	VF0010	Adherence
+VFG001284(gb|NP_647402)	VF0014	Adherence; Biofilm formation
+VFG001285(gb|NP_647403)	VF0014	Adherence; Biofilm formation
+VFG001286(gb|NP_647404)	VF0014	Adherence; Biofilm formation
+VFG001287(gb|NP_647405)	VF0014	Adherence; Biofilm formation
+VFG001288(gb|NP_647406)	VF0014	Adherence; Biofilm formation
+VFG001289(gb|NP_645581)	VF0004	Adherence
+VFG001290(gb|NP_647368)	VF0004	Adherence
+VFG001291(gb|NP_647429)	VF0005	Adherence
+VFG001292(gb|NP_646776)	VF0007	Toxin; Membrane-damaging; Pore-forming; Channel-forming involving alpha-helix-containing toxin
+VFG001293(gb|NP_645861)	VF0001	Toxin; Membrane-damaging; Pore-forming; Channel-forming involving beta-sheet-containing toxin (beta-barrel)
+VFG001294(gb|NP_645747)	VF0006	Exoenzyme; Protease; Cysteine protease
+VFG001295(gb|NP_645748)	VF0006	Exoenzyme; Protease; Cysteine protease
+VFG001296(gb|NP_645749)	VF0023	Exoenzyme; Protease; Serine protease
+VFG001297(gb|NP_644939)	VF0003	Antiphagocytosis
+VFG001298(gb|NP_644940)	VF0003	Antiphagocytosis
+VFG001299(gb|NP_644941)	VF0003	Antiphagocytosis
+VFG001300(gb|NP_644942)	VF0003	Antiphagocytosis
+VFG001301(gb|NP_644943)	VF0003	Antiphagocytosis
+VFG001302(gb|NP_644944)	VF0003	Antiphagocytosis
+VFG001303(gb|NP_644945)	VF0003	Antiphagocytosis
+VFG001304(gb|NP_644946)	VF0003	Antiphagocytosis
+VFG001305(gb|NP_644947)	VF0003	Antiphagocytosis
+VFG001306(gb|NP_644948)	VF0003	Antiphagocytosis
+VFG001307(gb|NP_644949)	VF0003	Antiphagocytosis
+VFG001308(gb|NP_644950)	VF0003	Antiphagocytosis
+VFG001309(gb|NP_644951)	VF0003	Antiphagocytosis
+VFG001310(gb|NP_644952)	VF0003	Antiphagocytosis
+VFG001311(gb|NP_644953)	VF0003	Antiphagocytosis
+VFG001312(gb|NP_644954)	VF0003	Antiphagocytosis
+VFG001313(gb|NP_644899)	VF0017	Immune evasion; Adherence
+VFG001314(gb|NP_647375)	VF0024	Exoenzyme; Protease; Zinc metalloproteinase
+VFG001315(gb|NP_646946)	VF0013	Exoenzyme; Spreading factor
+VFG001316(gb|NP_645114)	VF0012	Exoenzyme; Lipase
+VFG001317(gb|YP_001332074)	VF0015	Iron uptake; Heme uptake
+VFG001318(gb|YP_001332075)	VF0015	Iron uptake; Heme uptake
+VFG001319(gb|YP_001332076)	VF0015	Iron uptake; Heme uptake
+VFG001320(gb|NP_645831)	VF0015	Iron uptake; Heme uptake
+VFG001321(gb|YP_001332078)	VF0015	Iron uptake; Heme uptake
+VFG001322(gb|NP_645833)	VF0015	Iron uptake; Heme uptake
+VFG001323(gb|NP_645834)	VF0015	Iron uptake; Heme uptake
+VFG001324(gb|YP_001332081)	VF0015	Iron uptake; Heme uptake
+VFG001325(gb|NP_646706)	VF0020	Toxin; Membrane-acting; Superantigen
+VFG001326(gb|NP_646754)	VF0020	Toxin; Membrane-acting; Superantigen
+VFG001327(gb|NP_646755)	VF0020	Toxin; Membrane-acting; Superantigen
+VFG001328(gb|NP_646702)	VF0021	Plasminogen activator; Tissue invasion
+VFG001798(gb|YP_186826)	VF0002	Toxin; Membrane-damaging; Hydrolase
+VFG001799(gb|CAB94853)	VF0016	Adherence
+VFG001800(gb|AAA17490)	VF0009	Toxin; Serine protease
+VFG001801(gb|AAA26628)	VF0009	Toxin; Serine protease
+VFG001802(gb|AAA88550)	VF0020	Toxin; Membrane-acting; Superantigen
+VFG001803(gb|NP_644866)	VF0020	Toxin; Membrane-acting; Superantigen
+VFG001807(gb|AAB06195)	VF0020	Toxin; Membrane-acting; Superantigen
+VFG001808(gb|AAA26617)	VF0020	Toxin; Membrane-acting; Superantigen
+VFG001809(gb|NP_375120)	VF0022	Toxin; Membrane-acting; Superantigen
+VFG002404(gb|NP_645075)	VF0403	Secretion system; Type VII secretion system
+VFG002405(gb|NP_645073)	VF0403	Secretion system; Type VII secretion system
+VFG002406(gb|NP_645074)	VF0403	Secretion system; Type VII secretion system
+VFG002407(gb|NP_645076)	VF0403	Secretion system; Type VII secretion system
+VFG002408(gb|NP_645078)	VF0403	Secretion system; Type VII secretion system
+VFG002409(gb|NP_645079)	VF0403	Secretion system; Type VII secretion system
+VFG002410(gb|NP_645081)	VF0403	Secretion system; Type VII secretion system
+VFG002411(gb|NP_645082)	VF0403	Secretion system; Type VII secretion system
+VFG002418(gb|YP_001331791)	VF0420	Exoenzyme
+VFG002419(gb|NP_645021)	VF0421	Exoenzyme
+VFG002420(gb|NP_644838)	VF0422	Immune evasion
+VFG002421(gb|NP_647158)	VF0423	Immune evasion
+VFG002422(gb|YP_001332911)	VF0424	Immune evasion
+VFG002423(gb|YP_001332910)	VF0425	Immune evasion
+VFG000948(gb|NP_663908)	VF0243	Adherence; Cellular invasion
+VFG000949(gb|NP_663902)	VF0243	Adherence; Cellular invasion
+VFG000950(gb|NP_665531)	VF0242	Antiphagocytosis; Adherence; Cellular invasion
+VFG000951(gb|NP_665105)	VF0248	Toxin; Membrane-acting; Superantigen
+VFG000952(gb|NP_269185)	VF0248	Toxin; Membrane-acting; Superantigen
+VFG000953(gb|NP_665009)	VF0248	Toxin; Membrane-acting; Superantigen
+VFG000954(gb|NP_664724)	VF0248	Toxin; Membrane-acting; Superantigen
+VFG000955(gb|NP_608047)	VF0242	Antiphagocytosis; Adherence; Cellular invasion
+VFG000956(gb|NP_607775)	VF0252	Exoenzyme; Spreading factor
+VFG000957(gb|NP_607349)	VF0248	Toxin; Membrane-acting; Superantigen
+VFG000958(gb|NP_607350)	VF0248	Toxin; Membrane-acting; Superantigen
+VFG000959(gb|NP_269190)	VF0243	Adherence; Cellular invasion
+VFG000960(gb|NP_269464)	VF0254	Anti-proteolysis
+VFG000961(gb|NP_269065)	VF0284	Exoenzyme; Cysteine protease; Antiphagocytosis
+VFG000962(gb|NP_270107)	VF0244	Antiphagocytosis; Adherence; Tissue invasion
+VFG000963(gb|NP_270108)	VF0244	Antiphagocytosis; Adherence; Tissue invasion
+VFG000964(gb|NP_270109)	VF0244	Antiphagocytosis; Adherence; Tissue invasion
+VFG000965(gb|NP_268936)	VF0246	Exoenzyme; Spreading factor
+VFG000966(gb|NP_269179)	VF0246	Exoenzyme; Spreading factor
+VFG000967(gb|NP_269528)	VF0246	Exoenzyme; Spreading factor
+VFG000968(gb|NP_269973)	VF0242	Antiphagocytosis; Adherence; Cellular invasion
+VFG000969(gb|NP_269989)	VF0252	Exoenzyme; Spreading factor
+VFG000970(gb|NP_268944)	VF0252	Exoenzyme; Spreading factor
+VFG000971(gb|NP_269520)	VF0252	Exoenzyme; Spreading factor
+VFG000972(gb|NP_269972)	VF0255	Antiphagocytosis
+VFG000973(gb|NP_269985)	VF0249	Exoenzyme; Cysteine protease; Spreading factor
+VFG000974(gb|NP_269970)	VF0245	Immune evasion; Complement protease; Adherence; Surface-associated adhesin
+VFG000975(gb|NP_269944)	VF0247	Plasminogen activator; Tissue invasion
+VFG000976(gb|NP_268546)	VF0250	Toxin; Pore-forming; Thiol-activated cholesterol-binding cytolysin; Cytolysin-mediated secretion system
+VFG000978(gb|NP_268943)	VF0248	Toxin; Membrane-acting; Superantigen
+VFG000979(gb|NP_268582)	VF0248	Toxin; Membrane-acting; Superantigen
+VFG000980(gb|NP_268735)	VF0248	Toxin; Membrane-acting; Superantigen
+VFG000981(gb|NP_269959)	VF0248	Toxin; Membrane-acting; Superantigen
+VFG000982(gb|NP_269186)	VF0248	Toxin; Membrane-acting; Superantigen
+VFG001330(gb|NP_688239)	VF0275	Adherence
+VFG001331(gb|YP_329152)	VF0276	Invasion; Phase variation
+VFG001333(gb|NP_689029)	VF0280	Toxin; Membrane-damaging; Pore-forming
+VFG001334(gb|NP_688206)	VF0281	Exoenzyme; Spreading factor
+VFG001335(gb|NP_688167)	VF0274	Antiphagocytosis; Serum resistance
+VFG001336(gb|NP_688168)	VF0274	Antiphagocytosis; Serum resistance
+VFG001337(gb|NP_688169)	VF0274	Antiphagocytosis; Serum resistance
+VFG001338(gb|NP_688170)	VF0274	Antiphagocytosis; Serum resistance
+VFG001339(gb|NP_688171)	VF0274	Antiphagocytosis; Serum resistance
+VFG001340(gb|NP_688172)	VF0274	Antiphagocytosis; Serum resistance
+VFG001341(gb|NP_688173)	VF0274	Antiphagocytosis; Serum resistance
+VFG001342(gb|NP_688174)	VF0274	Antiphagocytosis; Serum resistance
+VFG001343(gb|NP_688175)	VF0274	Antiphagocytosis; Serum resistance
+VFG001344(gb|NP_688176)	VF0274	Antiphagocytosis; Serum resistance
+VFG001345(gb|NP_688177)	VF0274	Antiphagocytosis; Serum resistance
+VFG001346(gb|NP_688178)	VF0274	Antiphagocytosis; Serum resistance
+VFG001347(gb|NP_688179)	VF0274	Antiphagocytosis; Serum resistance
+VFG001348(gb|NP_688180)	VF0274	Antiphagocytosis; Serum resistance
+VFG001349(gb|NP_688181)	VF0274	Antiphagocytosis; Serum resistance
+VFG001350(gb|NP_688182)	VF0274	Antiphagocytosis; Serum resistance
+VFG001351(gb|NP_688183)	VF0274	Antiphagocytosis; Serum resistance
+VFG001352(gb|NP_688184)	VF0274	Antiphagocytosis; Serum resistance
+VFG001353(gb|NP_344916)	VF0145	Adherence
+VFG001354(gb|NP_345414)	VF0145	Adherence
+VFG001355(gb|NP_346612)	VF0145	Adherence
+VFG001356(gb|NP_345446)	VF0145	Adherence
+VFG001357(gb|NP_346601)	VF0150	Adherence; Complement resistance
+VFG001358(gb|NP_346365)	VF0143	Protease; Hydrolase; Amidase
+VFG001359(gb|NP_346089)	VF0151	Manganese uptake; ABC transporter
+VFG001360(gb|NP_346126)	VF0148	Protease
+VFG001361(gb|NP_344663)	VF0152	Complement resistance
+VFG001362(gb|NP_344620)	VF0147	IgA1 Protease; Zinc metalloproteinase
+VFG001363(gb|NP_346351)	VF0149	Toxin; Pore-forming; Thiol-activated cholesterol-binding cytolysin
+VFG001364(gb|NP_344851)	VF0146	Exoenzyme; Spreading factor
+VFG001365(gb|NP_344879)	VF0144	Antiphagocytosis
+VFG001366(gb|NP_344880)	VF0144	Antiphagocytosis
+VFG001367(gb|NP_344881)	VF0144	Antiphagocytosis
+VFG001368(gb|NP_344882)	VF0144	Antiphagocytosis
+VFG001369(gb|NP_344883)	VF0144	Antiphagocytosis
+VFG001370(gb|NP_344884)	VF0144	Antiphagocytosis
+VFG001371(gb|NP_344885)	VF0144	Antiphagocytosis
+VFG001372(gb|NP_344886)	VF0144	Antiphagocytosis
+VFG001373(gb|NP_344890)	VF0144	Antiphagocytosis
+VFG001374(gb|NP_344891)	VF0144	Antiphagocytosis
+VFG001375(gb|NP_344892)	VF0144	Antiphagocytosis
+VFG001376(gb|NP_344893)	VF0144	Antiphagocytosis
+VFG001377(gb|NP_359024)	VF0145	Adherence
+VFG001378(gb|NP_359129)	VF0148	Protease
+VFG001795(gb|BAC98831)	VF0277	Antiphagocytosis; Serum resistance
+VFG001796(gb|NP_735533)	VF0282	Adherence; Phase variation
+VFG001797(gb|NP_735749)	VF0278	Immune evasion; Complement protease; Adherence; Surface-associated adhesin
+VFG005197(gb|NP_358462)	VF0283	Adherence
+VFG005215(gb|NP_735300)	VF0523	Adherence; Fibrinogen-binding protein
+VFG005233(gb|YP_281471)	VF0531	Adherence; Sortase-assembled pili
+VFG005277(gb|NP_735083)	VF0527	Adherence; Sortase-assembled pili
+VFG005283(gb|NP_735085)	VF0527	Adherence; Sortase-assembled pili
+VFG005286(gb|NP_735086)	VF0527	Adherence; Sortase-assembled pili
+VFG005289(gb|NP_735087)	VF0527	Adherence; Sortase-assembled pili
+VFG005291(gb|NP_735911)	VF0528	Adherence; Sortase-assembled pili
+VFG005293(gb|NP_735912)	VF0528	Adherence; Sortase-assembled pili
+VFG005297(gb|NP_735914)	VF0528	Adherence; Sortase-assembled pili
+VFG005299(gb|NP_735915)	VF0528	Adherence; Sortase-assembled pili
+VFG005301(gb|NP_344982)	VF0529	Adherence; Sortase-assembled pili
+VFG005303(gb|NP_344983)	VF0529	Adherence; Sortase-assembled pili
+VFG005305(gb|NP_344984)	VF0529	Adherence; Sortase-assembled pili
+VFG005307(gb|NP_344986)	VF0529	Adherence; Sortase-assembled pili
+VFG005308(gb|NP_344987)	VF0529	Adherence; Sortase-assembled pili
+VFG005310(gb|NP_344988)	VF0529	Adherence; Sortase-assembled pili
+VFG042967(gb|YP_281472)	VF0531	Adherence; Sortase-assembled pili
+VFG042968(gb|YP_281473)	VF0531	Adherence; Sortase-assembled pili
+VFG042969(gb|YP_281474)	VF0531	Adherence; Sortase-assembled pili
+VFG042970(gb|YP_281475)	VF0531	Adherence; Sortase-assembled pili
+VFG042971(gb|YP_002742498)	VF0530	Adherence; Sortase-assembled pili
+VFG042972(gb|YP_002742499)	VF0530	Adherence; Sortase-assembled pili
+VFG042973(gb|YP_002742500)	VF0530	Adherence; Sortase-assembled pili
+VFG042974(gb|YP_002742501)	VF0530	Adherence; Sortase-assembled pili
+VFG042975(gb|YP_002742502)	VF0530	Adherence; Sortase-assembled pili
+VFG043465(gb|NP_359244)	VF0525	Adherence; MSCRAMMs; Fibronectin-binding protein
+VFG043504(gb|NP_357669)	VF0524	Adherence; Fibronectin-binding protein
+VFG000088(gb|NP_230473)	VF0126	Adherence; Type IV pilus
+VFG000089(gb|NP_230474)	VF0126	Adherence; Type IV pilus
+VFG000090(gb|NP_230475)	VF0126	Adherence; Type IV pilus
+VFG000091(gb|NP_230476)	VF0126	Adherence; Type IV pilus
+VFG000092(gb|NP_230477)	VF0126	Adherence; Type IV pilus
+VFG000093(gb|NP_230478)	VF0126	Adherence; Type IV pilus
+VFG000094(gb|NP_230479)	VF0126	Adherence; Type IV pilus
+VFG000095(gb|NP_230480)	VF0126	Adherence; Type IV pilus
+VFG000096(gb|NP_230481)	VF0126	Adherence; Type IV pilus
+VFG000097(gb|NP_230482)	VF0126	Adherence; Type IV pilus
+VFG000098(gb|NP_230483)	VF0126	Adherence; Type IV pilus
+VFG000099(gb|NP_230484)	VF0126	Adherence; Type IV pilus
+VFG000100(gb|NP_230485)	VF0126	Adherence; Type IV pilus
+VFG000101(gb|NP_230486)	VF0126	Adherence; Type IV pilus
+VFG000102(gb|NP_230487)	VF0126	Adherence; Type IV pilus
+VFG000103(gb|NP_230492)	VF0127	Adherence
+VFG000104(gb|NP_230488)	VF0127	Adherence
+VFG000105(gb|NP_230489)	VF0127	Adherence
+VFG000106(gb|NP_230493)	VF0127	Adherence
+VFG000107(gb|NP_231100)	VF0128	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type
+VFG000108(gb|NP_231099)	VF0128	Toxin; Intracellular toxin; ADP-ribosyltransferase; A-B type
+VFG000109(gb|NP_231101)	VF0129	Toxin
+VFG000110(gb|NP_231102)	VF0130	Toxin
+VFG000983(gb|NP_231094)	VF0265	Toxin; RTX toxin; Actin monomer cross-linking activity
+VFG002078(gb|NP_232511)	VF0335	Secretion system; Type VI secretion system
+VFG002079(gb|NP_232512)	VF0335	Secretion system; Type VI secretion system
+VFG002080(gb|NP_232513)	VF0335	Secretion system; Type VI secretion system
+VFG002081(gb|NP_232514)	VF0335	Secretion system; Type VI secretion system
+VFG002082(gb|NP_232515)	VF0335	Secretion system; Type VI secretion system
+VFG002083(gb|NP_232516)	VF0335	Secretion system; Type VI secretion system
+VFG002084(gb|NP_232517)	VF0335	Secretion system; Type VI secretion system
+VFG002085(gb|NP_232518)	VF0335	Secretion system; Type VI secretion system
+VFG002086(gb|NP_232519)	VF0335	Secretion system; Type VI secretion system
+VFG002087(gb|NP_232520)	VF0335	Secretion system; Type VI secretion system
+VFG002088(gb|NP_232521)	VF0335	Secretion system; Type VI secretion system
+VFG002089(gb|NP_232522)	VF0335	Secretion system; Type VI secretion system
+VFG002090(gb|NP_232523)	VF0335	Secretion system; Type VI secretion system
+VFG002091(gb|NP_232524)	VF0335	Secretion system; Type VI secretion system
+VFG002092(gb|NP_232508)	VF0335	Secretion system; Type VI secretion system
+VFG002093(gb|NP_232509)	VF0335	Secretion system; Type VI secretion system
+VFG002094(gb|NP_232510)	VF0335	Secretion system; Type VI secretion system
+VFG007031(gb|NP_800824)	VF0517	Toxin; Pore-forming toxin
+VFG007038(gb|NP_232618)	VF0516	Toxin; Pore-forming toxin; Beta-barrel pore-forming toxin
+VFG007146(gb|NP_798035)	VF0408	Secretion system; Type III secretion system
+VFG007147(gb|NP_798036)	VF0408	Secretion system; Type III secretion system
+VFG007148(gb|NP_798037)	VF0408	Secretion system; Type III secretion system
+VFG007149(gb|NP_798038)	VF0408	Secretion system; Type III secretion system
+VFG007150(gb|NP_798039)	VF0408	Secretion system; Type III secretion system
+VFG007151(gb|NP_798040)	VF0408	Secretion system; Type III secretion system
+VFG007152(gb|NP_798041)	VF0408	Secretion system; Type III secretion system
+VFG007153(gb|NP_798042)	VF0408	Secretion system; Type III secretion system
+VFG007154(gb|NP_798043)	VF0408	Secretion system; Type III secretion system
+VFG007155(gb|NP_798044)	VF0408	Secretion system; Type III secretion system
+VFG007156(gb|NP_798045)	VF0408	Secretion system; Type III secretion system
+VFG007157(gb|NP_798046)	VF0408	Secretion system; Type III secretion system
+VFG007158(gb|NP_798047)	VF0408	Secretion system; Type III secretion system
+VFG007159(gb|NP_798048)	VF0408	Secretion system; Type III secretion system
+VFG007160(gb|NP_798049)	VF0408	Secretion system; Type III secretion system
+VFG007161(gb|NP_798050)	VF0408	Secretion system; Type III secretion system
+VFG007162(gb|NP_798051)	VF0408	Secretion system; Type III secretion system
+VFG007163(gb|NP_798052)	VF0408	Secretion system; Type III secretion system
+VFG007164(gb|NP_798053)	VF0408	Secretion system; Type III secretion system
+VFG007165(gb|NP_798054)	VF0408	Secretion system; Type III secretion system
+VFG007166(gb|NP_798067)	VF0408	Secretion system; Type III secretion system
+VFG007167(gb|NP_798068)	VF0408	Secretion system; Type III secretion system
+VFG007168(gb|NP_798069)	VF0408	Secretion system; Type III secretion system
+VFG007169(gb|NP_798070)	VF0408	Secretion system; Type III secretion system
+VFG007170(gb|NP_798071)	VF0408	Secretion system; Type III secretion system
+VFG007171(gb|NP_798072)	VF0408	Secretion system; Type III secretion system
+VFG007172(gb|NP_798073)	VF0408	Secretion system; Type III secretion system
+VFG007173(gb|NP_798074)	VF0408	Secretion system; Type III secretion system
+VFG007174(gb|NP_798075)	VF0408	Secretion system; Type III secretion system
+VFG007175(gb|NP_798076)	VF0408	Secretion system; Type III secretion system
+VFG007176(gb|NP_798077)	VF0408	Secretion system; Type III secretion system
+VFG007177(gb|NP_798078)	VF0408	Secretion system; Type III secretion system
+VFG007178(gb|NP_798079)	VF0408	Secretion system; Type III secretion system
+VFG007179(gb|NP_798080)	VF0408	Secretion system; Type III secretion system
+VFG007180(gb|NP_798065)	VF0408	Secretion system; Type III secretion system
+VFG007181(gb|NP_798062)	VF0408	Secretion system; Type III secretion system
+VFG007182(gb|NP_798059)	VF0408	Secretion system; Type III secretion system
+VFG007183(gb|NP_799960)	VF0408	Secretion system; Type III secretion system
+VFG007184(gb|NP_800841)	VF0409	Secretion system; Type III secretion system
+VFG007185(gb|NP_800845)	VF0409	Secretion system; Type III secretion system
+VFG007186(gb|NP_800848)	VF0409	Secretion system; Type III secretion system
+VFG007187(gb|NP_800849)	VF0409	Secretion system; Type III secretion system
+VFG007188(gb|NP_800851)	VF0409	Secretion system; Type III secretion system
+VFG007189(gb|NP_800852)	VF0409	Secretion system; Type III secretion system
+VFG007190(gb|NP_800856)	VF0409	Secretion system; Type III secretion system
+VFG007191(gb|NP_800864)	VF0409	Secretion system; Type III secretion system
+VFG007192(gb|NP_800865)	VF0409	Secretion system; Type III secretion system
+VFG007193(gb|NP_800872)	VF0409	Secretion system; Type III secretion system
+VFG007194(gb|NP_800877)	VF0409	Secretion system; Type III secretion system
+VFG018238(gb|NP_232914)	VF0405	Regulation; Quorum sensing system
+VFG018241(gb|NP_230208)	VF0406	Regulation; Quorum sensing system
+VFG018679(gb|NP_800859)	VF0409	Secretion system; Type III secretion system
+VFG018680(gb|NP_800837)	VF0409	Secretion system; Type III secretion system
+VFG018681(gb|NP_800831)	VF0409	Secretion system; Type III secretion system
+VFG018682(gb|NP_800881)	VF0409	Secretion system; Type III secretion system
+VFG041906(gb|NP_800873)	VF0409	Secretion system; Type III secretion system
+VFG041908(gb|NP_800871)	VF0409	Secretion system; Type III secretion system
+VFG041910(gb|NP_800863)	VF0409	Secretion system; Type III secretion system
+VFG041911(gb|NP_800842)	VF0409	Secretion system; Type III secretion system
+VFG041912(gb|NP_798060)	VF0408	Secretion system; Type III secretion system
+VFG043487(gb|NP_760575)	VF0514	Adherence
+VFG044044(gb|AAB29385)	VF0518	Toxin; Pore-forming toxin
+VFG044465(gb|NP_800846)	VF0409	Secretion system; Type III secretion system
+VFG044466(gb|NP_800847)	VF0409	Secretion system; Type III secretion system
+VFG044467(gb|NP_800850)	VF0409	Secretion system; Type III secretion system
+VFG044468(gb|NP_800860)	VF0409	Secretion system; Type III secretion system
+VFG044469(gb|NP_800861)	VF0409	Secretion system; Type III secretion system
+VFG044470(gb|NP_800862)	VF0409	Secretion system; Type III secretion system
+VFG045345(gb|NP_797990)	VF0512	Adherence
+VFG045346(gb|NP_933683)	VF0513	Adherence
+VFG000349(gb|YP_002346326)	VF0134	Adherence
+VFG000350(gb|YP_002346327)	VF0134	Adherence
+VFG000351(gb|NP_404898)	VF0134	Adherence
+VFG000352(gb|YP_002346329)	VF0134	Adherence
+VFG000353(gb|YP_002346330)	VF0134	Adherence
+VFG000354(gb|NP_406409)	VF0132	Invasion; Serum resistance
+VFG000356(gb|CAA88188)	VF0131	Invasion; Autotransporter; Type Ve
+VFG000358(gb|NP_405467)	VF0136	Iron uptake; Siderophore
+VFG000359(gb|NP_405468)	VF0136	Iron uptake; Siderophore
+VFG000360(gb|NP_405469)	VF0136	Iron uptake; Siderophore
+VFG000361(gb|NP_405470)	VF0136	Iron uptake; Siderophore
+VFG000362(gb|NP_405471)	VF0136	Iron uptake; Siderophore
+VFG000363(gb|NP_405472)	VF0136	Iron uptake; Siderophore
+VFG000364(gb|NP_405473)	VF0136	Iron uptake; Siderophore
+VFG000365(gb|NP_405474)	VF0136	Iron uptake; Siderophore
+VFG000366(gb|NP_405475)	VF0136	Iron uptake; Siderophore
+VFG000367(gb|NP_405476)	VF0136	Iron uptake; Siderophore
+VFG000368(gb|NP_405477)	VF0136	Iron uptake; Siderophore
+VFG000372(gb|NP_395142)	VF0140	Secretion system; Type III secretion system
+VFG000373(gb|NP_395143)	VF0140	Secretion system; Type III secretion system
+VFG000374(gb|NP_395154)	VF0140	Secretion system; Type III secretion system
+VFG000375(gb|NP_395155)	VF0140	Secretion system; Type III secretion system
+VFG000376(gb|NP_395156)	VF0140	Secretion system; Type III secretion system
+VFG000377(gb|NP_395161)	VF0140	Secretion system; Type III secretion system
+VFG000378(gb|NP_395162)	VF0140	Secretion system; Type III secretion system
+VFG000379(gb|NP_395163)	VF0140	Secretion system; Type III secretion system
+VFG000380(gb|NP_395164)	VF0140	Secretion system; Type III secretion system
+VFG000381(gb|NP_395165)	VF0140	Secretion system; Type III secretion system
+VFG000382(gb|NP_395166)	VF0140	Secretion system; Type III secretion system
+VFG000383(gb|NP_395167)	VF0140	Secretion system; Type III secretion system
+VFG000384(gb|NP_395168)	VF0140	Secretion system; Type III secretion system
+VFG000385(gb|NP_395169)	VF0140	Secretion system; Type III secretion system
+VFG000386(gb|NP_395170)	VF0140	Secretion system; Type III secretion system
+VFG000387(gb|NP_395171)	VF0140	Secretion system; Type III secretion system
+VFG000388(gb|NP_395172)	VF0140	Secretion system; Type III secretion system
+VFG000389(gb|NP_395173)	VF0140	Secretion system; Type III secretion system
+VFG000390(gb|NP_395174)	VF0140	Secretion system; Type III secretion system
+VFG000391(gb|NP_395175)	VF0140	Secretion system; Type III secretion system
+VFG000392(gb|NP_395176)	VF0140	Secretion system; Type III secretion system
+VFG000393(gb|NP_395177)	VF0140	Secretion system; Type III secretion system
+VFG000394(gb|NP_395178)	VF0140	Secretion system; Type III secretion system
+VFG000395(gb|NP_395179)	VF0140	Secretion system; Type III secretion system
+VFG000396(gb|NP_395180)	VF0140	Secretion system; Type III secretion system
+VFG000397(gb|NP_395181)	VF0140	Secretion system; Type III secretion system
+VFG000398(gb|NP_395182)	VF0140	Secretion system; Type III secretion system
+VFG000400(gb|NP_395184)	VF0140	Secretion system; Type III secretion system
+VFG000401(gb|NP_395185)	VF0140	Secretion system; Type III secretion system
+VFG000402(gb|NP_395186)	VF0140	Secretion system; Type III secretion system
+VFG000403(gb|NP_395187)	VF0140	Secretion system; Type III secretion system
+VFG000404(gb|NP_395188)	VF0140	Secretion system; Type III secretion system
+VFG000405(gb|NP_395189)	VF0140	Secretion system; Type III secretion system
+VFG000406(gb|NP_395190)	VF0140	Secretion system; Type III secretion system
+VFG000407(gb|NP_395191)	VF0140	Secretion system; Type III secretion system
+VFG000408(gb|NP_395192)	VF0140	Secretion system; Type III secretion system
+VFG000409(gb|NP_395193)	VF0140	Secretion system; Type III secretion system
+VFG000410(gb|NP_395194)	VF0140	Secretion system; Type III secretion system
+VFG000411(gb|NP_395195)	VF0140	Secretion system; Type III secretion system
+VFG000412(gb|NP_395196)	VF0140	Secretion system; Type III secretion system
+VFG000413(gb|NP_395201)	VF0140	Secretion system; Type III secretion system
+VFG000414(gb|NP_395205)	VF0140	Secretion system; Type III secretion system
+VFG000415(gb|NP_395206)	VF0140	Secretion system; Type III secretion system
+VFG000416(gb|NP_395224)	VF0140	Secretion system; Type III secretion system
+VFG000417(gb|NP_395233)	VF0139	Adherence; Plasminogen activator; Tissue invasion
+VFG000418(gb|NP_395430)	VF0138	Capsule; Antiphagocytosis
+VFG000419(gb|NP_395429)	VF0138	Capsule; Antiphagocytosis
+VFG000420(gb|NP_395428)	VF0138	Capsule; Antiphagocytosis
+VFG000421(gb|NP_395427)	VF0138	Capsule; Antiphagocytosis
+VFG000422(gb|NP_395420)	VF0137	Toxin
+VFG002155(gb|AAA18472)	VF0135	Toxin; Membrane-acting; Guanylate cyclase
+VFG002156(gb|BAA13544)	VF0135	Toxin; Membrane-acting; Guanylate cyclase
+VFG002308(gb|YP_001007668)	VF0401	Adherence
+VFG002309(gb|YP_001007667)	VF0401	Adherence
+VFG002310(gb|YP_001007666)	VF0401	Adherence
+VFG002311(gb|YP_001007665)	VF0401	Adherence
+VFG002312(gb|YP_001007664)	VF0401	Adherence
+VFG002313(gb|YP_001007663)	VF0401	Adherence
+VFG002314(gb|YP_001007662)	VF0401	Adherence
+VFG002315(gb|YP_001007661)	VF0401	Adherence
+VFG002316(gb|YP_001007660)	VF0401	Adherence
+VFG002317(gb|YP_001007659)	VF0401	Adherence
+VFG002318(gb|YP_001006725)	VF0394	Secretion system; Invasion; Motility
+VFG002319(gb|YP_001006726)	VF0394	Secretion system; Invasion; Motility
+VFG002320(gb|YP_001006727)	VF0394	Secretion system; Invasion; Motility
+VFG002321(gb|YP_001006728)	VF0394	Secretion system; Invasion; Motility
+VFG002322(gb|YP_001006729)	VF0394	Secretion system; Invasion; Motility
+VFG002323(gb|YP_001006730)	VF0394	Secretion system; Invasion; Motility
+VFG002324(gb|YP_001006731)	VF0394	Secretion system; Invasion; Motility
+VFG002325(gb|YP_001006732)	VF0394	Secretion system; Invasion; Motility
+VFG002326(gb|YP_001006733)	VF0394	Secretion system; Invasion; Motility
+VFG002327(gb|YP_001006740)	VF0394	Secretion system; Invasion; Motility
+VFG002328(gb|YP_001006741)	VF0394	Secretion system; Invasion; Motility
+VFG002329(gb|YP_001006742)	VF0394	Secretion system; Invasion; Motility
+VFG002330(gb|YP_001006743)	VF0394	Secretion system; Invasion; Motility
+VFG002331(gb|YP_001006744)	VF0394	Secretion system; Invasion; Motility
+VFG002332(gb|YP_001006745)	VF0394	Secretion system; Invasion; Motility
+VFG002333(gb|YP_001006746)	VF0394	Secretion system; Invasion; Motility
+VFG002334(gb|YP_001006747)	VF0394	Secretion system; Invasion; Motility
+VFG002335(gb|YP_001006748)	VF0394	Secretion system; Invasion; Motility
+VFG002336(gb|YP_001006749)	VF0394	Secretion system; Invasion; Motility
+VFG002337(gb|YP_001006750)	VF0394	Secretion system; Invasion; Motility
+VFG002338(gb|YP_001006751)	VF0394	Secretion system; Invasion; Motility
+VFG002339(gb|YP_001006752)	VF0394	Secretion system; Invasion; Motility
+VFG002340(gb|YP_001006753)	VF0394	Secretion system; Invasion; Motility
+VFG002341(gb|YP_001006754)	VF0394	Secretion system; Invasion; Motility
+VFG002342(gb|YP_001006755)	VF0394	Secretion system; Invasion; Motility
+VFG002343(gb|YP_001006756)	VF0394	Secretion system; Invasion; Motility
+VFG002344(gb|YP_001006757)	VF0394	Secretion system; Invasion; Motility
+VFG002345(gb|YP_001006758)	VF0394	Secretion system; Invasion; Motility
+VFG002346(gb|YP_001006759)	VF0394	Secretion system; Invasion; Motility
+VFG002347(gb|YP_001006760)	VF0394	Secretion system; Invasion; Motility
+VFG002348(gb|YP_001006761)	VF0394	Secretion system; Invasion; Motility
+VFG002349(gb|YP_001006762)	VF0394	Secretion system; Invasion; Motility
+VFG002350(gb|YP_001006763)	VF0394	Secretion system; Invasion; Motility
+VFG002351(gb|YP_001006764)	VF0394	Secretion system; Invasion; Motility
+VFG002352(gb|YP_001006765)	VF0394	Secretion system; Invasion; Motility
+VFG002353(gb|YP_001006766)	VF0394	Secretion system; Invasion; Motility
+VFG002354(gb|YP_001006767)	VF0394	Secretion system; Invasion; Motility
+VFG002355(gb|YP_001006769)	VF0394	Secretion system; Invasion; Motility
+VFG002356(gb|YP_001006770)	VF0394	Secretion system; Invasion; Motility
+VFG002357(gb|YP_001006771)	VF0394	Secretion system; Invasion; Motility
+VFG002358(gb|YP_001006783)	VF0394	Secretion system; Invasion; Motility
+VFG002359(gb|YP_001006784)	VF0394	Secretion system; Invasion; Motility
+VFG002360(gb|YP_001007252)	VF0392	unknow
+VFG002361(gb|YP_001007253)	VF0392	unknow
+VFG002362(gb|YP_001007254)	VF0392	unknow
+VFG002363(gb|YP_001007255)	VF0392	unknow
+VFG002364(gb|YP_001007256)	VF0392	unknow
+VFG002365(gb|YP_001007257)	VF0392	unknow
+VFG002366(gb|YP_001007258)	VF0392	unknow
+VFG002367(gb|YP_001007259)	VF0392	unknow
+VFG002368(gb|YP_001007260)	VF0392	unknow
+VFG002369(gb|YP_001007261)	VF0392	unknow
+VFG002370(gb|YP_001007262)	VF0392	unknow
+VFG002371(gb|YP_001007263)	VF0392	unknow
+VFG002372(gb|YP_001007264)	VF0392	unknow
+VFG002373(gb|YP_001007265)	VF0392	unknow
+VFG002374(gb|YP_001007266)	VF0392	unknow
+VFG002375(gb|YP_001007267)	VF0392	unknow
+VFG002376(gb|YP_001007268)	VF0392	unknow
+VFG002377(gb|YP_001007269)	VF0392	unknow
+VFG042311(gb|YP_002347738)	VF0510	Adherence; Autotransporter
+VFG042312(gb|YP_002348854)	VF0505	Adherence; Autotransporter
+VFG045342(gb|YP_002345390)	VF0508	Adherence; Autotransporter
+VFG045343(gb|YP_002346679)	VF0509	Adherence; Autotransporter
+VFG045344(gb|NP_670727)	VF0507	Adherence; Autotransporter
+VFG045347(gb|YP_001006237)	VF0511	Toxin; Pore-forming toxin
+VFG045348(gb|YP_001006238)	VF0511	Toxin; Pore-forming toxin
