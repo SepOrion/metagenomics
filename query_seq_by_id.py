@@ -5,7 +5,7 @@
 
 import argparse
 from Bio import SeqIO
-parser = argparse.ArgumentParser(description="用途：根据序列ID号，输出对应的序列。 示例：find_seq_by_id.py -i genes.fa -id id.txt -o genes_clean.fa")
+parser = argparse.ArgumentParser(description="用途：根据序列ID号，输出对应的序列。")
 parser.add_argument("-i",dest="fasta",metavar="",help="fasta序列文件，例如去冗余后的基因集")
 parser.add_argument("-id",dest="Id",metavar="",help="需要查询的序列ID，格式：一行一个ID号")
 parser.add_argument("-o",dest="outFile",metavar="",help="输出文件名")
