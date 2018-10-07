@@ -4,7 +4,7 @@ import argparse
 import pandas as pd
 import numpy as np
 
-parser = argparse.ArgumentParser(description="用途：去除在各样品中支持reads数小于等于2的基因，并统计每个样品中丰度大于0的基因数")
+parser = argparse.ArgumentParser(description="用途：去除在各样品中支持reads数小于等于2的基因并计算基因相对丰度，最后统计每个样品中丰度大于0的基因数")
 parser.add_argument("-i",dest="inputFile",metavar="",help="所有样品reads数矩阵表，第一列基因编号，第二列为长度，其余各列为样品名")
 parser.add_argument("-o",dest="outFile",metavar="",help="输出文件名")
 args = parser.parse_args()
