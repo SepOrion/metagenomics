@@ -27,7 +27,7 @@ with gzip.open(filename,"rt") as fq1:
 				q30 +=1
 		NUM +=len(line_2)
 		count += 1
-		gc += line_2.count("G")+line_2.count("C"
+		gc += line_2.count("G")+line_2.count("C")
 											 
 # read R2
 with gzip.open(args.read2,"rt") as fq2:
