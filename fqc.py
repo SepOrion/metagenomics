@@ -9,7 +9,7 @@ parser.add_argument("-ii",dest="read2",metavar="",help="read2文件")
 args = parser.parse_args()
 
 # read R1
-with gzip.open(filename,"rt") as fq1:
+with gzip.open(args.read1,"rt") as fq1:
 	num1 = 0
 	count1 = 0
 	q30_1 = 0
