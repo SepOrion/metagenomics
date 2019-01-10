@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Usage :
-# merge_reads_table.py --input txt --output reads_table.txt
+# merge_reads_table.py --filename --output reads_table.txt
 
 import glob
 import argparse
