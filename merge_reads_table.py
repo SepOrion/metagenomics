@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
+# Usage :
+# merge_reads_table.py --input txt --output reads_table.txt
 
 import glob
 import argparse
 import pandas as pd
 from pandas import DataFrame
 
-parser = argparse.ArgumentParser(description="用于合并来自samtools统计reads的文件")
-parser.add_argument("--input",dest="inputFile",metavar="",help="需要合并文件的关键词")
+parser = argparse.ArgumentParser(description=
+								 "用于合并来自samtools统计reads的文件\n"
+								"Usage :merge_reads_table.py --input txt --output reads_table.txt",formatter_class = argparse.RawTextHelpFormatter)
+parser.add_argument("--filename",dest="inputFile",metavar="",help="需要合并文件的关键词")
 parser.add_argument("--output",dest="outFile",metavar="",help="输出文件名")
 args = parser.parse_args()
 
