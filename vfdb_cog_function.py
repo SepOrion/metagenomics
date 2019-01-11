@@ -8,9 +8,9 @@ from pandas import DataFrame
 def get_args():
 	parser = argparse.ArgumentParser(description=
 									 "可以用于处理VFDB和COG/KOG比对结果，分别需要用到相应的功能描述信息表：VFID_keyword.txt、cogKog_Function.txt。\n"
-									"Usage:vfdb_cog_function.py -i vfdb.m8 -k VFID_keyword.txt -o vfdb_genes_annotion.txt --min-score 60",formatter_class = argparse.RawTextHelpFormatter)
+									"Usage:vfdb_cog_function.py -i vfdb.m8 -f VFID_keyword.txt -o vfdb_genes_annotion.txt --min-score 60",formatter_class = argparse.RawTextHelpFormatter)
 	parser.add_argument("-i",dest="m8File",metavar="",help="VFDB或COG/KOG比对结果，M8格式")
-	parser.add_argument("-k",dest="function",metavar="",help="功能注释信息表：VFID_keyword.txt、cogKog_Function.txt")
+	parser.add_argument("-f",dest="function",metavar="",help="功能注释信息表：VFID_keyword.txt、cogKog_Function.txt")
 	parser.add_argument("-o",dest="outPutFile",metavar="",help="输出文件名")
 	parser.add_argument("--min-score",dest="minScore",metavar="",default=60,help="比对结果的最小得分,默认60")
 	return parser.parse_args()
