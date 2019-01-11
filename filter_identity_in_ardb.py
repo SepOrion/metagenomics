@@ -23,8 +23,8 @@ with open(args.input2) as f2:
 	for line in f2:
 		L = line.strip("\n").split("\t")[0:3]
 		newline = ''
-		if L[1] in myDict.keys():
-			if float(L[2]) >= float(myDict[L[1]]):
+		if L[1] in myDict_1.keys():
+			if float(L[2]) >= float(myDict_1[L[1]]):
 				newline = "\t".join(L[0:2]) #输出gene ID和database ID
 				LL.append(newline)
 #转换格式
