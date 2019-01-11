@@ -4,7 +4,7 @@ import argparse
 
 parser = argparse.ArgumentParser(description=
 				 "用途：根据ARDB数据库序列要求的最低identity，过滤diamond比对结果，并输出注释丰度表。\n"
-				""Usage:filter_identity_in_ardb.py -i ardb_index_table.txt -ii ardb.m8 -o ardb_annoPath.txt",formatter_class = ap.RawTextHelpFormatter")
+				"Usage:filter_identity_in_ardb.py -i ardb_index_table.txt -ii ardb.m8 -o ardb_annoPath.txt",formatter_class = ap.RawTextHelpFormatter")
 parser.add_argument("-i",dest="input1",metavar="",help="输入文件1：ARDB索引文件:ardb_index_table.txt")
 parser.add_argument("-ii",dest="input2",metavar="",help="输入文件2：diamond比对后的m8格式文件:ardb.m8")
 parser.add_argument("-o",dest="outFile",metavar="",help="输出文件名")
