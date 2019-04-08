@@ -16,7 +16,7 @@ with gzip.open(args.read1,"rt") as fq1:
 	gc_1 = 0	
 	while True:
 		line_1 = fq1.readline().strip('\n')
-		if not (line_1 and fq):
+		if not (line_1 and fq1):
 			break
 		line_2 = fq1.readline().strip('\n')
 		line_3 = fq1.readline().strip('\n')
@@ -24,7 +24,7 @@ with gzip.open(args.read1,"rt") as fq1:
 		for q in line_4:
 			qual = ord(q)-33
 			if qual >=30:
-				q30 +=1
+				q30_1 +=1
 		num1 +=len(line_2)
 		count1 += 1
 		gc += line_2.count("G")+line_2.count("C")
