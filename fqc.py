@@ -27,7 +27,7 @@ with gzip.open(args.read1,"rt") as fq1:
 				q30_1 +=1
 		num1 +=len(line_2)
 		count1 += 1
-		gc += line_2.count("G")+line_2.count("C")
+		gc_1 += line_2.count("G")+line_2.count("C")
 											 
 # read R2
 with gzip.open(args.read2,"rt") as fq2:
